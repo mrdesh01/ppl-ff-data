@@ -1,0 +1,5411 @@
+{
+ "meta": {
+  "source": "FF_Achivment_report_1.xlsx",
+  "sheet": "FF_UPLOAD_VALUE_GLE",
+  "ctn_sheet": "MM_REGION & AREA_TGT VS ACHI",
+  "generated_at": "2026-11-25T04:59:14",
+  "categories": [
+   "CSD",
+   "HOTFILL",
+   "HDPE",
+   "BEVERAGE",
+   "NOODLES",
+   "POTATO CRACKERS",
+   "WATER",
+   "OIL",
+   "DETERGENT"
+  ],
+  "beverage_components": [
+   "CSD",
+   "HOTFILL",
+   "HDPE"
+  ],
+  "top_level": [
+   "BEVERAGE",
+   "NOODLES",
+   "POTATO CRACKERS",
+   "WATER",
+   "OIL",
+   "DETERGENT"
+  ]
+ },
+ "records": [
+  {
+   "region": "BARISHAL REGION",
+   "area": "BARISHAL",
+   "categories": {
+    "CSD": {
+     "tgt": 1829275.4183902703,
+     "ims": null,
+     "do": 382768.55999999976,
+     "del": 426047.27999999985
+    },
+    "HOTFILL": {
+     "tgt": 242652.1403076923,
+     "ims": null,
+     "do": 27444.96,
+     "del": 19056.96
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 2056.32,
+     "del": 0
+    },
+    "BEVERAGE": {
+     "tgt": 2071927.5586979627,
+     "ims": 0.0,
+     "do": 412269.8399999998,
+     "del": 445104.2399999999
+    },
+    "NOODLES": {
+     "tgt": 498975.50769230764,
+     "ims": null,
+     "do": 104174.64,
+     "del": 104174.64
+    },
+    "POTATO CRACKERS": {
+     "tgt": 76200.0,
+     "ims": null,
+     "do": 11312.0,
+     "del": 17533.6
+    },
+    "WATER": {
+     "tgt": 271521.12676056335,
+     "ims": null,
+     "do": 46440.0,
+     "del": 28302.0
+    },
+    "OIL": {
+     "tgt": 2446690.0,
+     "ims": null,
+     "do": 635236.0,
+     "del": 635236.0
+    },
+    "DETERGENT": {
+     "tgt": 552835.1368421052,
+     "ims": null,
+     "do": 97176.0,
+     "del": 390384.0
+    }
+   }
+  },
+  {
+   "region": "BARISHAL REGION",
+   "area": "BHOLA",
+   "categories": {
+    "CSD": {
+     "tgt": 895177.3324037493,
+     "ims": null,
+     "do": 150211.68000000002,
+     "del": 182582.88
+    },
+    "HOTFILL": {
+     "tgt": 161768.09353846151,
+     "ims": null,
+     "do": 27316.8,
+     "del": 27316.8
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 10584.0,
+     "del": 10584.0
+    },
+    "BEVERAGE": {
+     "tgt": 1056945.425942211,
+     "ims": 0.0,
+     "do": 188112.48,
+     "del": 220483.68
+    },
+    "NOODLES": {
+     "tgt": 784104.3692307692,
+     "ims": null,
+     "do": 97228.8,
+     "del": 97228.8
+    },
+    "POTATO CRACKERS": {
+     "tgt": 50800.0,
+     "ims": null,
+     "do": 8484.0,
+     "del": 19796.0
+    },
+    "WATER": {
+     "tgt": 54304.22535211267,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "OIL": {
+     "tgt": 1121297.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "DETERGENT": {
+     "tgt": 399269.82105263154,
+     "ims": null,
+     "do": 27582.0,
+     "del": 27582.0
+    }
+   }
+  },
+  {
+   "region": "CHANDPUR REGION",
+   "area": "CHANDPUR",
+   "categories": {
+    "CSD": {
+     "tgt": 1089781.1003176079,
+     "ims": null,
+     "do": 252725.75999999998,
+     "del": 244339.19999999998
+    },
+    "HOTFILL": {
+     "tgt": 161768.09353846151,
+     "ims": null,
+     "do": 26972.64,
+     "del": 26972.64
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 4112.64,
+     "del": 4112.64
+    },
+    "BEVERAGE": {
+     "tgt": 1251549.1938560694,
+     "ims": 0.0,
+     "do": 283811.04,
+     "del": 275424.48
+    },
+    "NOODLES": {
+     "tgt": 926668.7999999999,
+     "ims": null,
+     "do": 236545.91999999998,
+     "del": 232513.91999999998
+    },
+    "POTATO CRACKERS": {
+     "tgt": 60960.0,
+     "ims": null,
+     "do": 5656.0,
+     "del": 5656.0
+    },
+    "WATER": {
+     "tgt": 1629126.76056338,
+     "ims": null,
+     "do": 396660.0,
+     "del": 720921.6
+    },
+    "OIL": {
+     "tgt": 1536866.0,
+     "ims": null,
+     "do": 0,
+     "del": 14472.0
+    },
+    "DETERGENT": {
+     "tgt": 460695.947368421,
+     "ims": null,
+     "do": 132396.0,
+     "del": 147544.58
+    }
+   }
+  },
+  {
+   "region": "CHANDPUR REGION",
+   "area": "KACHUA",
+   "categories": {
+    "CSD": {
+     "tgt": 1011939.5931520645,
+     "ims": null,
+     "do": 174110.87999999998,
+     "del": 181740.47999999998
+    },
+    "HOTFILL": {
+     "tgt": 161768.09353846151,
+     "ims": null,
+     "do": 9292.32,
+     "del": 7915.68
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "BEVERAGE": {
+     "tgt": 1173707.686690526,
+     "ims": 0.0,
+     "do": 183403.19999999998,
+     "del": 189656.15999999997
+    },
+    "NOODLES": {
+     "tgt": 712822.1538461538,
+     "ims": null,
+     "do": 53798.4,
+     "del": 139838.4
+    },
+    "POTATO CRACKERS": {
+     "tgt": 50800.0,
+     "ims": null,
+     "do": 10180.8,
+     "del": 19796.0
+    },
+    "WATER": {
+     "tgt": 1176591.5492957747,
+     "ims": null,
+     "do": 233010.0,
+     "del": 513588.0
+    },
+    "OIL": {
+     "tgt": 836055.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "DETERGENT": {
+     "tgt": 460695.947368421,
+     "ims": null,
+     "do": 58842.0,
+     "del": 58842.0
+    }
+   }
+  },
+  {
+   "region": "CHANDPUR REGION",
+   "area": "LAKSHAM",
+   "categories": {
+    "CSD": {
+     "tgt": 1089781.1003176079,
+     "ims": null,
+     "do": 58867.2,
+     "del": 58867.2
+    },
+    "HOTFILL": {
+     "tgt": 202210.1169230769,
+     "ims": null,
+     "do": 34416.0,
+     "del": 34416.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "BEVERAGE": {
+     "tgt": 1291991.2172406847,
+     "ims": 0.0,
+     "do": 93283.2,
+     "del": 93283.2
+    },
+    "NOODLES": {
+     "tgt": 712822.1538461538,
+     "ims": null,
+     "do": 0,
+     "del": 96768.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 50800.0,
+     "ims": null,
+     "do": 11312.0,
+     "del": 11312.0
+    },
+    "WATER": {
+     "tgt": 2534197.1830985914,
+     "ims": null,
+     "do": 1648626.0,
+     "del": 2279406.0
+    },
+    "OIL": {
+     "tgt": 914742.0,
+     "ims": null,
+     "do": 0,
+     "del": 31360.0
+    },
+    "DETERGENT": {
+     "tgt": 460695.947368421,
+     "ims": null,
+     "do": 145554.0,
+     "del": 145554.0
+    }
+   }
+  },
+  {
+   "region": "CHITTAGONG REGION",
+   "area": "BANDAR",
+   "categories": {
+    "CSD": {
+     "tgt": 1167622.6074831514,
+     "ims": null,
+     "do": 202832.63999999998,
+     "del": 333916.3199999999
+    },
+    "HOTFILL": {
+     "tgt": 181989.1052307692,
+     "ims": null,
+     "do": 16519.68,
+     "del": 16519.68
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 6854.4,
+     "del": 6854.4
+    },
+    "BEVERAGE": {
+     "tgt": 1349611.7127139205,
+     "ims": 0.0,
+     "do": 226206.71999999997,
+     "del": 357290.3999999999
+    },
+    "NOODLES": {
+     "tgt": 392052.1846153846,
+     "ims": null,
+     "do": 5414.4,
+     "del": 51308.16
+    },
+    "POTATO CRACKERS": {
+     "tgt": 76200.0,
+     "ims": null,
+     "do": 11312.0,
+     "del": 11312.0
+    },
+    "WATER": {
+     "tgt": 905070.4225352112,
+     "ims": null,
+     "do": 203304.0,
+     "del": 273852.0
+    },
+    "OIL": {
+     "tgt": 268029.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "DETERGENT": {
+     "tgt": 460695.947368421,
+     "ims": null,
+     "do": 77229.0,
+     "del": 102417.64
+    }
+   }
+  },
+  {
+   "region": "CHITTAGONG REGION",
+   "area": "CHAKARIA",
+   "categories": {
+    "CSD": {
+     "tgt": 1673592.4040591836,
+     "ims": null,
+     "do": 1058511.1199999999,
+     "del": 1271210.3999999994
+    },
+    "HOTFILL": {
+     "tgt": 181989.1052307692,
+     "ims": null,
+     "do": 75539.51999999999,
+     "del": 93298.55999999998
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 21098.16,
+     "del": 21098.16
+    },
+    "BEVERAGE": {
+     "tgt": 1855581.5092899527,
+     "ims": 0.0,
+     "do": 1155148.7999999998,
+     "del": 1385607.1199999994
+    },
+    "NOODLES": {
+     "tgt": 320769.9692307692,
+     "ims": null,
+     "do": 36584.64,
+     "del": 36584.64
+    },
+    "POTATO CRACKERS": {
+     "tgt": 76200.0,
+     "ims": null,
+     "do": 7918.4,
+     "del": 7918.4
+    },
+    "WATER": {
+     "tgt": 633549.2957746478,
+     "ims": null,
+     "do": 608316.0,
+     "del": 661096.8
+    },
+    "OIL": {
+     "tgt": 268029.0,
+     "ims": null,
+     "do": 435960.0,
+     "del": 435960.0
+    },
+    "DETERGENT": {
+     "tgt": 460695.947368421,
+     "ims": null,
+     "do": 45552.0,
+     "del": 47854.9
+    }
+   }
+  },
+  {
+   "region": "CHITTAGONG REGION",
+   "area": "CHAKTAI",
+   "categories": {
+    "CSD": {
+     "tgt": 1751433.9112247268,
+     "ims": null,
+     "do": 573063.36,
+     "del": 597756.4799999999
+    },
+    "HOTFILL": {
+     "tgt": 202210.1169230769,
+     "ims": null,
+     "do": 15143.039999999999,
+     "del": 15143.039999999999
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 27572.22,
+     "del": 27572.22
+    },
+    "BEVERAGE": {
+     "tgt": 1953644.0281478036,
+     "ims": 0.0,
+     "do": 615778.62,
+     "del": 640471.7399999999
+    },
+    "NOODLES": {
+     "tgt": 926668.7999999999,
+     "ims": null,
+     "do": 0,
+     "del": 270000.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 40640.0,
+     "ims": null,
+     "do": 12443.2,
+     "del": 12443.2
+    },
+    "WATER": {
+     "tgt": 1267098.5915492957,
+     "ims": null,
+     "do": 494811.0,
+     "del": 668985.0
+    },
+    "OIL": {
+     "tgt": 277865.0,
+     "ims": null,
+     "do": 276640.0,
+     "del": 391300.0
+    },
+    "DETERGENT": {
+     "tgt": 460695.947368421,
+     "ims": null,
+     "do": 255855.0,
+     "del": 255855.0
+    }
+   }
+  },
+  {
+   "region": "CHITTAGONG REGION",
+   "area": "COX'S BAZAR",
+   "categories": {
+    "CSD": {
+     "tgt": 1868196.171973042,
+     "ims": null,
+     "do": 555811.2000000001,
+     "del": 594288.0
+    },
+    "HOTFILL": {
+     "tgt": 161768.09353846151,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 30125.879999999997,
+     "del": 13303.38
+    },
+    "BEVERAGE": {
+     "tgt": 2029964.2655115034,
+     "ims": 0.0,
+     "do": 585937.0800000001,
+     "del": 607591.38
+    },
+    "NOODLES": {
+     "tgt": 285128.8615384615,
+     "ims": null,
+     "do": 16128.0,
+     "del": 16128.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 76200.0,
+     "ims": null,
+     "do": 23755.2,
+     "del": 23755.2
+    },
+    "WATER": {
+     "tgt": 2715211.2676056335,
+     "ims": null,
+     "do": 2325330.0,
+     "del": 2213262.0
+    },
+    "OIL": {
+     "tgt": 2490952.0,
+     "ims": null,
+     "do": 1232472.0,
+     "del": 1232472.0
+    },
+    "DETERGENT": {
+     "tgt": 460695.947368421,
+     "ims": null,
+     "do": 117475.73999999999,
+     "del": 133218.64
+    }
+   }
+  },
+  {
+   "region": "CHITTAGONG REGION",
+   "area": "PATIYA",
+   "categories": {
+    "CSD": {
+     "tgt": 1595750.89689364,
+     "ims": null,
+     "do": 395537.75999999995,
+     "del": 555034.5599999999
+    },
+    "HOTFILL": {
+     "tgt": 181989.1052307692,
+     "ims": null,
+     "do": 29037.600000000002,
+     "del": 29037.600000000002
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 6854.4,
+     "del": 6854.4
+    },
+    "BEVERAGE": {
+     "tgt": 1777740.0021244092,
+     "ims": 0.0,
+     "do": 431429.75999999995,
+     "del": 590926.5599999999
+    },
+    "NOODLES": {
+     "tgt": 320769.9692307692,
+     "ims": null,
+     "do": 8064.0,
+     "del": 8064.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 152400.0,
+     "ims": null,
+     "do": 1131.2,
+     "del": 1131.2
+    },
+    "WATER": {
+     "tgt": 1086084.5070422534,
+     "ims": null,
+     "do": 412062.0,
+     "del": 449073.0
+    },
+    "OIL": {
+     "tgt": 418027.0,
+     "ims": null,
+     "do": 198676.0,
+     "del": 198676.0
+    },
+    "DETERGENT": {
+     "tgt": 460695.947368421,
+     "ims": null,
+     "do": 233115.0,
+     "del": 286640.86
+    }
+   }
+  },
+  {
+   "region": "CHITTAGONG REGION",
+   "area": "SATKANIA",
+   "categories": {
+    "CSD": {
+     "tgt": 1167622.6074831514,
+     "ims": null,
+     "do": 464887.2,
+     "del": 555175.2000000001
+    },
+    "HOTFILL": {
+     "tgt": 121326.07015384614,
+     "ims": null,
+     "do": 42804.0,
+     "del": 42804.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 10281.599999999999,
+     "del": 10281.599999999999
+    },
+    "BEVERAGE": {
+     "tgt": 1288948.6776369975,
+     "ims": 0.0,
+     "do": 517972.8,
+     "del": 608260.8
+    },
+    "NOODLES": {
+     "tgt": 213846.64615384614,
+     "ims": null,
+     "do": 8064.0,
+     "del": 8064.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 71120.0,
+     "ims": null,
+     "do": 6221.6,
+     "del": 6221.6
+    },
+    "WATER": {
+     "tgt": 452535.2112676056,
+     "ims": null,
+     "do": 74100.0,
+     "del": 202743.6
+    },
+    "OIL": {
+     "tgt": 356553.0,
+     "ims": null,
+     "do": 257660.0,
+     "del": 257660.0
+    },
+    "DETERGENT": {
+     "tgt": 460695.947368421,
+     "ims": null,
+     "do": 17544.0,
+     "del": 17544.0
+    }
+   }
+  },
+  {
+   "region": "CUMILLA REGION",
+   "area": "B.BARIA",
+   "categories": {
+    "CSD": {
+     "tgt": 1634671.6504764117,
+     "ims": null,
+     "do": 226896.96,
+     "del": 205957.92
+    },
+    "HOTFILL": {
+     "tgt": 161768.09353846151,
+     "ims": null,
+     "do": 20649.6,
+     "del": 20649.6
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 23990.4,
+     "del": 30046.5
+    },
+    "BEVERAGE": {
+     "tgt": 1796439.7440148732,
+     "ims": 0.0,
+     "do": 271536.96,
+     "del": 256654.02000000002
+    },
+    "NOODLES": {
+     "tgt": 249487.75384615382,
+     "ims": null,
+     "do": 8064.0,
+     "del": 13478.4
+    },
+    "POTATO CRACKERS": {
+     "tgt": 152400.0,
+     "ims": null,
+     "do": 32804.8,
+     "del": 50904.0
+    },
+    "WATER": {
+     "tgt": 1991154.9295774647,
+     "ims": null,
+     "do": 673866.0,
+     "del": 800286.0
+    },
+    "OIL": {
+     "tgt": 1445883.0,
+     "ims": null,
+     "do": 427380.0,
+     "del": 454320.0
+    },
+    "DETERGENT": {
+     "tgt": 460695.947368421,
+     "ims": null,
+     "do": 186153.0,
+     "del": 170310.0
+    }
+   }
+  },
+  {
+   "region": "CUMILLA REGION",
+   "area": "CUMILLA",
+   "categories": {
+    "CSD": {
+     "tgt": 2452007.475714618,
+     "ims": null,
+     "do": 571653.6,
+     "del": 636780.48
+    },
+    "HOTFILL": {
+     "tgt": 303315.1753846153,
+     "ims": null,
+     "do": 23186.88,
+     "del": 23186.88
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 10156.2,
+     "del": 5445.9
+    },
+    "BEVERAGE": {
+     "tgt": 2755322.651099233,
+     "ims": 0.0,
+     "do": 604996.6799999999,
+     "del": 665413.26
+    },
+    "NOODLES": {
+     "tgt": 712822.1538461538,
+     "ims": null,
+     "do": 242926.56,
+     "del": 1048342.56
+    },
+    "POTATO CRACKERS": {
+     "tgt": 101600.0,
+     "ims": null,
+     "do": 11877.6,
+     "del": 33370.4
+    },
+    "WATER": {
+     "tgt": 3982309.8591549294,
+     "ims": null,
+     "do": 1127886.0,
+     "del": 2626129.2
+    },
+    "OIL": {
+     "tgt": 850809.0,
+     "ims": null,
+     "do": 0,
+     "del": 68048.0
+    },
+    "DETERGENT": {
+     "tgt": 675687.3894736841,
+     "ims": null,
+     "do": 225462.0,
+     "del": 261909.16
+    }
+   }
+  },
+  {
+   "region": "CUMILLA REGION",
+   "area": "DAUDKANDI",
+   "categories": {
+    "CSD": {
+     "tgt": 1829275.4183902703,
+     "ims": null,
+     "do": 193681.19999999995,
+     "del": 181746.47999999992
+    },
+    "HOTFILL": {
+     "tgt": 222431.12861538457,
+     "ims": null,
+     "do": 57771.36,
+     "del": 57771.36
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 20070.0,
+     "del": 11995.2
+    },
+    "BEVERAGE": {
+     "tgt": 2051706.5470056548,
+     "ims": 0.0,
+     "do": 271522.55999999994,
+     "del": 251513.03999999992
+    },
+    "NOODLES": {
+     "tgt": 427693.2923076923,
+     "ims": null,
+     "do": 34053.119999999995,
+     "del": 34053.12
+    },
+    "POTATO CRACKERS": {
+     "tgt": 101600.0,
+     "ims": null,
+     "do": 50904.0,
+     "del": 50904.0
+    },
+    "WATER": {
+     "tgt": 1719633.8028169014,
+     "ims": null,
+     "do": 93888.0,
+     "del": 1172019.0
+    },
+    "OIL": {
+     "tgt": 627041.0,
+     "ims": null,
+     "do": 455320.0,
+     "del": 156000.0
+    },
+    "DETERGENT": {
+     "tgt": 460695.947368421,
+     "ims": null,
+     "do": 146106.0,
+     "del": 149254.58000000002
+    }
+   }
+  },
+  {
+   "region": "CUMILLA REGION",
+   "area": "HABIGANJ",
+   "categories": {
+    "CSD": {
+     "tgt": 2257403.707800759,
+     "ims": null,
+     "do": 1187232.4799999997,
+     "del": 1214615.04
+    },
+    "HOTFILL": {
+     "tgt": 242652.1403076923,
+     "ims": null,
+     "do": 3441.6,
+     "del": 3441.6
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 33645.0,
+     "del": 50467.5
+    },
+    "BEVERAGE": {
+     "tgt": 2500055.8481084513,
+     "ims": 0.0,
+     "do": 1224319.0799999998,
+     "del": 1268524.1400000001
+    },
+    "NOODLES": {
+     "tgt": 427693.2923076923,
+     "ims": null,
+     "do": 86630.4,
+     "del": 115153.92000000001
+    },
+    "POTATO CRACKERS": {
+     "tgt": 127000.0,
+     "ims": null,
+     "do": 3959.2,
+     "del": 0
+    },
+    "WATER": {
+     "tgt": 452535.2112676056,
+     "ims": null,
+     "do": 51435.0,
+     "del": 32235.0
+    },
+    "OIL": {
+     "tgt": 1170477.0,
+     "ims": null,
+     "do": 1054592.0,
+     "del": 815932.0
+    },
+    "DETERGENT": {
+     "tgt": 460695.947368421,
+     "ims": null,
+     "do": 129705.0,
+     "del": 110691.8
+    }
+   }
+  },
+  {
+   "region": "DHAKA REGION",
+   "area": "JATRABARI",
+   "categories": {
+    "CSD": {
+     "tgt": 1362226.3753970098,
+     "ims": null,
+     "do": 182946.47999999998,
+     "del": 188685.35999999996
+    },
+    "HOTFILL": {
+     "tgt": 202210.1169230769,
+     "ims": null,
+     "do": 20993.76,
+     "del": 20993.76
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 14736.96,
+     "del": 14736.96
+    },
+    "BEVERAGE": {
+     "tgt": 1564436.4923200866,
+     "ims": 0.0,
+     "do": 218677.19999999998,
+     "del": 224416.07999999996
+    },
+    "NOODLES": {
+     "tgt": 1568208.7384615385,
+     "ims": null,
+     "do": 228922.56,
+     "del": 191122.56
+    },
+    "POTATO CRACKERS": {
+     "tgt": 50800.0,
+     "ims": null,
+     "do": 23755.2,
+     "del": 23755.2
+    },
+    "WATER": {
+     "tgt": 3439267.6056338027,
+     "ims": null,
+     "do": 728514.0,
+     "del": 1200366.0
+    },
+    "OIL": {
+     "tgt": 206555.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "DETERGENT": {
+     "tgt": 460695.947368421,
+     "ims": null,
+     "do": 51780.0,
+     "del": 36930.0
+    }
+   }
+  },
+  {
+   "region": "DHAKA REGION",
+   "area": "NARAYANGANJ",
+   "categories": {
+    "CSD": {
+     "tgt": 1868196.171973042,
+     "ims": null,
+     "do": 218634.2399999999,
+     "del": 213379.6799999999
+    },
+    "HOTFILL": {
+     "tgt": 181989.1052307692,
+     "ims": null,
+     "do": 38586.24,
+     "del": 38586.24
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 9128.04,
+     "del": 11819.640000000001
+    },
+    "BEVERAGE": {
+     "tgt": 2050185.277203811,
+     "ims": 0.0,
+     "do": 266348.5199999999,
+     "del": 263785.5599999999
+    },
+    "NOODLES": {
+     "tgt": 712822.1538461538,
+     "ims": null,
+     "do": 5414.400000000001,
+     "del": 5414.400000000001
+    },
+    "POTATO CRACKERS": {
+     "tgt": 50800.0,
+     "ims": null,
+     "do": 15271.2,
+     "del": 15271.2
+    },
+    "WATER": {
+     "tgt": 271521.12676056335,
+     "ims": null,
+     "do": 411822.0,
+     "del": 298695.0
+    },
+    "OIL": {
+     "tgt": 1593422.0,
+     "ims": null,
+     "do": 418268.0,
+     "del": 418268.0
+    },
+    "DETERGENT": {
+     "tgt": 460695.947368421,
+     "ims": null,
+     "do": 506820.0,
+     "del": 506820.0
+    }
+   }
+  },
+  {
+   "region": "DHAKA REGION",
+   "area": "NARSINGDI",
+   "categories": {
+    "CSD": {
+     "tgt": 1868196.171973042,
+     "ims": null,
+     "do": 49947.840000000004,
+     "del": 49947.840000000004
+    },
+    "HOTFILL": {
+     "tgt": 222431.12861538457,
+     "ims": null,
+     "do": 21810.239999999998,
+     "del": 21810.239999999998
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 5140.799999999999,
+     "del": 5140.799999999999
+    },
+    "BEVERAGE": {
+     "tgt": 2090627.3005884266,
+     "ims": 0.0,
+     "do": 76898.88,
+     "del": 76898.88
+    },
+    "NOODLES": {
+     "tgt": 356411.0769230769,
+     "ims": null,
+     "do": 43799.04000000001,
+     "del": 67991.04000000001
+    },
+    "POTATO CRACKERS": {
+     "tgt": 50800.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "WATER": {
+     "tgt": 1810140.8450704224,
+     "ims": null,
+     "do": 1051500.0,
+     "del": 1159290.0
+    },
+    "OIL": {
+     "tgt": 49180.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "DETERGENT": {
+     "tgt": 460695.947368421,
+     "ims": null,
+     "do": 142170.0,
+     "del": 152358.0
+    }
+   }
+  },
+  {
+   "region": "DHAKA REGION",
+   "area": "UTTARA",
+   "categories": {
+    "CSD": {
+     "tgt": 1167622.6074831514,
+     "ims": null,
+     "do": 104594.4,
+     "del": 116892.0
+    },
+    "HOTFILL": {
+     "tgt": 202210.1169230769,
+     "ims": null,
+     "do": 29253.6,
+     "del": 29253.6
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "BEVERAGE": {
+     "tgt": 1369832.7244062282,
+     "ims": 0.0,
+     "do": 133848.0,
+     "del": 146145.6
+    },
+    "NOODLES": {
+     "tgt": 641539.9384615384,
+     "ims": null,
+     "do": 406632.96,
+     "del": 633972.9600000001
+    },
+    "POTATO CRACKERS": {
+     "tgt": 50800.0,
+     "ims": null,
+     "do": 10180.8,
+     "del": 3959.2
+    },
+    "WATER": {
+     "tgt": 3801295.774647887,
+     "ims": null,
+     "do": 1488996.0,
+     "del": 2146506.0
+    },
+    "OIL": {
+     "tgt": 98359.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "DETERGENT": {
+     "tgt": 460695.947368421,
+     "ims": null,
+     "do": 73860.0,
+     "del": 73860.0
+    }
+   }
+  },
+  {
+   "region": "HATHAZARI REGION",
+   "area": "HATHAZARI",
+   "categories": {
+    "CSD": {
+     "tgt": 1478988.636145325,
+     "ims": null,
+     "do": 540182.6399999999,
+     "del": 627548.3999999999
+    },
+    "HOTFILL": {
+     "tgt": 161768.09353846151,
+     "ims": null,
+     "do": 36825.119999999995,
+     "del": 36825.119999999995
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 12785.1,
+     "del": 14803.800000000001
+    },
+    "BEVERAGE": {
+     "tgt": 1640756.7296837864,
+     "ims": 0.0,
+     "do": 589792.8599999999,
+     "del": 679177.32
+    },
+    "NOODLES": {
+     "tgt": 392052.1846153846,
+     "ims": null,
+     "do": 9342.0,
+     "del": 17406.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 101600.0,
+     "ims": null,
+     "do": 13574.4,
+     "del": 13574.4
+    },
+    "WATER": {
+     "tgt": 362028.1690140845,
+     "ims": null,
+     "do": 60480.0,
+     "del": 120576.0
+    },
+    "OIL": {
+     "tgt": 331963.0,
+     "ims": null,
+     "do": 135708.0,
+     "del": 195406.0
+    },
+    "DETERGENT": {
+     "tgt": 460695.947368421,
+     "ims": null,
+     "do": 139050.0,
+     "del": 198130.12
+    }
+   }
+  },
+  {
+   "region": "HATHAZARI REGION",
+   "area": "KHAGRACHHARI",
+   "categories": {
+    "CSD": {
+     "tgt": 2529848.982880161,
+     "ims": null,
+     "do": 865827.3600000001,
+     "del": 835176.4800000001
+    },
+    "HOTFILL": {
+     "tgt": 202210.1169230769,
+     "ims": null,
+     "do": 23058.72,
+     "del": 0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 88519.95000000001,
+     "del": 71383.95
+    },
+    "BEVERAGE": {
+     "tgt": 2732059.099803238,
+     "ims": 0.0,
+     "do": 977406.03,
+     "del": 906560.43
+    },
+    "NOODLES": {
+     "tgt": 427693.2923076923,
+     "ims": null,
+     "do": 39973.44,
+     "del": 72229.44
+    },
+    "POTATO CRACKERS": {
+     "tgt": 127000.0,
+     "ims": null,
+     "do": 11312.0,
+     "del": 11312.0
+    },
+    "WATER": {
+     "tgt": 54304.22535211267,
+     "ims": null,
+     "do": 19230.0,
+     "del": 33360.0
+    },
+    "OIL": {
+     "tgt": 1052446.0,
+     "ims": null,
+     "do": 1144556.0,
+     "del": 1144556.0
+    },
+    "DETERGENT": {
+     "tgt": 460695.947368421,
+     "ims": null,
+     "do": 140322.0,
+     "del": 149767.74
+    }
+   }
+  },
+  {
+   "region": "HATHAZARI REGION",
+   "area": "OXYGEN",
+   "categories": {
+    "CSD": {
+     "tgt": 1089781.1003176079,
+     "ims": null,
+     "do": 271220.16,
+     "del": 332077.43999999994
+    },
+    "HOTFILL": {
+     "tgt": 161768.09353846151,
+     "ims": null,
+     "do": 34544.16,
+     "del": 34544.16
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 22276.8,
+     "del": 22276.8
+    },
+    "BEVERAGE": {
+     "tgt": 1251549.1938560694,
+     "ims": 0.0,
+     "do": 328041.11999999994,
+     "del": 388898.39999999997
+    },
+    "NOODLES": {
+     "tgt": 356411.0769230769,
+     "ims": null,
+     "do": 0,
+     "del": 64512.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 50800.0,
+     "ims": null,
+     "do": 28280.0,
+     "del": 28280.0
+    },
+    "WATER": {
+     "tgt": 362028.1690140845,
+     "ims": null,
+     "do": 211992.0,
+     "del": 234672.0
+    },
+    "OIL": {
+     "tgt": 76229.0,
+     "ims": null,
+     "do": 219180.0,
+     "del": 219180.0
+    },
+    "DETERGENT": {
+     "tgt": 460695.947368421,
+     "ims": null,
+     "do": 47250.0,
+     "del": 66141.48
+    }
+   }
+  },
+  {
+   "region": "HATHAZARI REGION",
+   "area": "RANGAMATI",
+   "categories": {
+    "CSD": {
+     "tgt": 1634671.6504764117,
+     "ims": null,
+     "do": 1351693.2000000002,
+     "del": 1518965.04
+    },
+    "HOTFILL": {
+     "tgt": 141547.08184615383,
+     "ims": null,
+     "do": 16647.84,
+     "del": 16647.84
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 15079.68,
+     "del": 15079.68
+    },
+    "BEVERAGE": {
+     "tgt": 1776218.7323225655,
+     "ims": 0.0,
+     "do": 1383420.7200000002,
+     "del": 1550692.56
+    },
+    "NOODLES": {
+     "tgt": 534616.6153846154,
+     "ims": null,
+     "do": 0,
+     "del": 65790.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 101600.0,
+     "ims": null,
+     "do": 29411.2,
+     "del": 29411.2
+    },
+    "WATER": {
+     "tgt": 126709.85915492957,
+     "ims": null,
+     "do": 89703.0,
+     "del": 143163.0
+    },
+    "OIL": {
+     "tgt": 708188.0,
+     "ims": null,
+     "do": 1746956.0,
+     "del": 1746956.0
+    },
+    "DETERGENT": {
+     "tgt": 460695.947368421,
+     "ims": null,
+     "do": 93081.0,
+     "del": 127715.38
+    }
+   }
+  },
+  {
+   "region": "HEAD OFFICE",
+   "area": "GAZIPUR",
+   "categories": {
+    "CSD": {
+     "tgt": 778415.0716554342,
+     "ims": null,
+     "do": 39352.32,
+     "del": 31682.88
+    },
+    "HOTFILL": {
+     "tgt": 60663.03507692307,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "BEVERAGE": {
+     "tgt": 839078.1067323573,
+     "ims": 0.0,
+     "do": 39352.32,
+     "del": 31682.88
+    },
+    "NOODLES": {
+     "tgt": 142564.43076923076,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 15240.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "WATER": {
+     "tgt": 452535.2112676056,
+     "ims": null,
+     "do": 156750.0,
+     "del": 157135.2
+    },
+    "OIL": {
+     "tgt": 181965.0,
+     "ims": null,
+     "do": 100400.0,
+     "del": 0
+    },
+    "DETERGENT": {
+     "tgt": 184278.37894736842,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    }
+   }
+  },
+  {
+   "region": "HEAD OFFICE",
+   "area": "JAMALPUR",
+   "categories": {
+    "CSD": {
+     "tgt": 1089781.1003176079,
+     "ims": null,
+     "do": 6451.2,
+     "del": 6451.2
+    },
+    "HOTFILL": {
+     "tgt": 161768.09353846151,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "BEVERAGE": {
+     "tgt": 1251549.1938560694,
+     "ims": 0.0,
+     "do": 6451.2,
+     "del": 6451.2
+    },
+    "NOODLES": {
+     "tgt": 249487.75384615382,
+     "ims": null,
+     "do": 62208.0,
+     "del": 29721.6
+    },
+    "POTATO CRACKERS": {
+     "tgt": 76200.0,
+     "ims": null,
+     "do": 31108.0,
+     "del": 14140.0
+    },
+    "WATER": {
+     "tgt": 18101.408450704224,
+     "ims": null,
+     "do": 13464.0,
+     "del": 0
+    },
+    "OIL": {
+     "tgt": 1986860.0,
+     "ims": null,
+     "do": 753540.0,
+     "del": 1161654.0
+    },
+    "DETERGENT": {
+     "tgt": 460695.947368421,
+     "ims": null,
+     "do": 113166.0,
+     "del": 96186.0
+    }
+   }
+  },
+  {
+   "region": "HEAD OFFICE",
+   "area": "KISHOREGANJ",
+   "categories": {
+    "CSD": {
+     "tgt": 389207.5358277171,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "HOTFILL": {
+     "tgt": 60663.03507692307,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 10967.04,
+     "del": 0
+    },
+    "BEVERAGE": {
+     "tgt": 449870.5709046402,
+     "ims": 0.0,
+     "do": 10967.04,
+     "del": 0
+    },
+    "NOODLES": {
+     "tgt": 285128.8615384615,
+     "ims": null,
+     "do": 0,
+     "del": 1704.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 20320.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "WATER": {
+     "tgt": 253419.71830985913,
+     "ims": null,
+     "do": 0,
+     "del": 3768.0
+    },
+    "OIL": {
+     "tgt": 312291.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "DETERGENT": {
+     "tgt": 184278.37894736842,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    }
+   }
+  },
+  {
+   "region": "HEAD OFFICE",
+   "area": "MYMENSINGH",
+   "categories": {
+    "CSD": {
+     "tgt": 1868196.171973042,
+     "ims": null,
+     "do": 54407.04000000001,
+     "del": 53129.280000000006
+    },
+    "HOTFILL": {
+     "tgt": 161768.09353846151,
+     "ims": null,
+     "do": 23875.199999999997,
+     "del": 23875.2
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 0,
+     "del": 13458.0
+    },
+    "BEVERAGE": {
+     "tgt": 2029964.2655115034,
+     "ims": 0.0,
+     "do": 78282.24,
+     "del": 90462.48000000001
+    },
+    "NOODLES": {
+     "tgt": 285128.8615384615,
+     "ims": null,
+     "do": 13478.4,
+     "del": 15279.84
+    },
+    "POTATO CRACKERS": {
+     "tgt": 76200.0,
+     "ims": null,
+     "do": 39592.0,
+     "del": 52312.799999999996
+    },
+    "WATER": {
+     "tgt": 181014.08450704225,
+     "ims": null,
+     "do": 37896.0,
+     "del": 63438.0
+    },
+    "OIL": {
+     "tgt": 1568833.0,
+     "ims": null,
+     "do": 632456.0,
+     "del": 874906.0
+    },
+    "DETERGENT": {
+     "tgt": 522122.0736842105,
+     "ims": null,
+     "do": 15276.0,
+     "del": 15276.0
+    }
+   }
+  },
+  {
+   "region": "HEAD OFFICE",
+   "area": "RAJSHAHI",
+   "categories": {
+    "CSD": {
+     "tgt": 1167622.6074831514,
+     "ims": null,
+     "do": 0,
+     "del": 3279.36
+    },
+    "HOTFILL": {
+     "tgt": 161768.09353846151,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "BEVERAGE": {
+     "tgt": 1329390.7010216129,
+     "ims": 0.0,
+     "do": 0,
+     "del": 3279.36
+    },
+    "NOODLES": {
+     "tgt": 249487.75384615382,
+     "ims": null,
+     "do": 24307.2,
+     "del": 24307.2
+    },
+    "POTATO CRACKERS": {
+     "tgt": 50800.0,
+     "ims": null,
+     "do": 5090.4,
+     "del": 5090.4
+    },
+    "WATER": {
+     "tgt": 362028.1690140845,
+     "ims": null,
+     "do": 178617.6,
+     "del": 226137.6
+    },
+    "OIL": {
+     "tgt": 786875.0,
+     "ims": null,
+     "do": 14000.0,
+     "del": 14000.0
+    },
+    "DETERGENT": {
+     "tgt": 522122.0736842105,
+     "ims": null,
+     "do": 44001.0,
+     "del": 44001.0
+    }
+   }
+  },
+  {
+   "region": "KHULNA REGION",
+   "area": "JASHORE",
+   "categories": {
+    "CSD": {
+     "tgt": 2335245.2149663027,
+     "ims": null,
+     "do": 348201.59999999986,
+     "del": 337589.99999999994
+    },
+    "HOTFILL": {
+     "tgt": 161768.09353846151,
+     "ims": null,
+     "do": 17896.32,
+     "del": 17896.32
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "BEVERAGE": {
+     "tgt": 2497013.3085047645,
+     "ims": 0.0,
+     "do": 366097.91999999987,
+     "del": 355486.31999999995
+    },
+    "NOODLES": {
+     "tgt": 249487.75384615382,
+     "ims": null,
+     "do": 110099.52,
+     "del": 75683.52
+    },
+    "POTATO CRACKERS": {
+     "tgt": 76200.0,
+     "ims": null,
+     "do": 29976.8,
+     "del": 30935.199999999997
+    },
+    "WATER": {
+     "tgt": 72405.6338028169,
+     "ims": null,
+     "do": 43662.0,
+     "del": 43662.0
+    },
+    "OIL": {
+     "tgt": 892612.0,
+     "ims": null,
+     "do": 487272.0,
+     "del": 387432.0
+    },
+    "DETERGENT": {
+     "tgt": 522122.0736842105,
+     "ims": null,
+     "do": 142179.0,
+     "del": 142179.0
+    }
+   }
+  },
+  {
+   "region": "KHULNA REGION",
+   "area": "KHULNA",
+   "categories": {
+    "CSD": {
+     "tgt": 4475886.662018746,
+     "ims": null,
+     "do": 560150.6399999999,
+     "del": 638049.8400000001
+    },
+    "HOTFILL": {
+     "tgt": 222431.12861538457,
+     "ims": null,
+     "do": 103976.64000000001,
+     "del": 103288.31999999999
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 2716.6800000000003,
+     "del": 2373.96
+    },
+    "BEVERAGE": {
+     "tgt": 4698317.790634131,
+     "ims": 0.0,
+     "do": 666843.96,
+     "del": 743712.12
+    },
+    "NOODLES": {
+     "tgt": 498975.50769230764,
+     "ims": null,
+     "do": 131149.44,
+     "del": 190915.2
+    },
+    "POTATO CRACKERS": {
+     "tgt": 147320.0,
+     "ims": null,
+     "do": 48641.6,
+     "del": 48641.6
+    },
+    "WATER": {
+     "tgt": 543042.2535211267,
+     "ims": null,
+     "do": 507504.0,
+     "del": 468480.0
+    },
+    "OIL": {
+     "tgt": 3688478.0,
+     "ims": null,
+     "do": 4620958.0,
+     "del": 4730906.0
+    },
+    "DETERGENT": {
+     "tgt": 614261.2631578947,
+     "ims": null,
+     "do": 333950.7,
+     "del": 328010.69999999995
+    }
+   }
+  },
+  {
+   "region": "NOAKHALI REGION",
+   "area": "DAGANBHUIYAN",
+   "categories": {
+    "CSD": {
+     "tgt": 895177.3324037493,
+     "ims": null,
+     "do": 107867.52,
+     "del": 107867.52
+    },
+    "HOTFILL": {
+     "tgt": 121326.07015384614,
+     "ims": null,
+     "do": 22154.4,
+     "del": 22154.4
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 23990.4,
+     "del": 23990.4
+    },
+    "BEVERAGE": {
+     "tgt": 1016503.4025575955,
+     "ims": 0.0,
+     "do": 154012.32,
+     "del": 154012.32
+    },
+    "NOODLES": {
+     "tgt": 463334.39999999997,
+     "ims": null,
+     "do": 21657.6,
+     "del": 83404.8
+    },
+    "POTATO CRACKERS": {
+     "tgt": 101600.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "WATER": {
+     "tgt": 597346.4788732394,
+     "ims": null,
+     "do": 96900.0,
+     "del": 410977.2
+    },
+    "OIL": {
+     "tgt": 3496677.0,
+     "ims": null,
+     "do": 703002.0,
+     "del": 703002.0
+    },
+    "DETERGENT": {
+     "tgt": 307130.63157894736,
+     "ims": null,
+     "do": 31686.0,
+     "del": 62428.9
+    }
+   }
+  },
+  {
+   "region": "NOAKHALI REGION",
+   "area": "LAKSHMIPUR",
+   "categories": {
+    "CSD": {
+     "tgt": 1050860.3467348362,
+     "ims": null,
+     "do": 109340.64000000001,
+     "del": 117025.92000000001
+    },
+    "HOTFILL": {
+     "tgt": 161768.09353846151,
+     "ims": null,
+     "do": 0,
+     "del": 8388.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 10281.6,
+     "del": 10281.6
+    },
+    "BEVERAGE": {
+     "tgt": 1212628.4402732977,
+     "ims": 0.0,
+     "do": 119622.24000000002,
+     "del": 135695.52000000002
+    },
+    "NOODLES": {
+     "tgt": 534616.6153846154,
+     "ims": null,
+     "do": 16243.199999999999,
+     "del": 16243.199999999999
+    },
+    "POTATO CRACKERS": {
+     "tgt": 101600.0,
+     "ims": null,
+     "do": 3393.6,
+     "del": 3393.6
+    },
+    "WATER": {
+     "tgt": 814563.38028169,
+     "ims": null,
+     "do": 149550.0,
+     "del": 603249.6
+    },
+    "OIL": {
+     "tgt": 587697.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "DETERGENT": {
+     "tgt": 522122.0736842105,
+     "ims": null,
+     "do": 79938.0,
+     "del": 38904.0
+    }
+   }
+  },
+  {
+   "region": "NOAKHALI REGION",
+   "area": "NOAKHALI",
+   "categories": {
+    "CSD": {
+     "tgt": 2335245.2149663027,
+     "ims": null,
+     "do": 506267.52,
+     "del": 503747.5200000001
+    },
+    "HOTFILL": {
+     "tgt": 283094.16369230766,
+     "ims": null,
+     "do": 57947.04,
+     "del": 57947.04
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "BEVERAGE": {
+     "tgt": 2618339.3786586104,
+     "ims": 0.0,
+     "do": 564214.56,
+     "del": 561694.56
+    },
+    "NOODLES": {
+     "tgt": 712822.1538461538,
+     "ims": null,
+     "do": 27072.0,
+     "del": 188352.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 101600.0,
+     "ims": null,
+     "do": 22624.0,
+     "del": 22624.0
+    },
+    "WATER": {
+     "tgt": 4344338.028169014,
+     "ims": null,
+     "do": 2604846.0,
+     "del": 3356421.6
+    },
+    "OIL": {
+     "tgt": 863104.0,
+     "ims": null,
+     "do": 208242.0,
+     "del": 221194.0
+    },
+    "DETERGENT": {
+     "tgt": 522122.0736842105,
+     "ims": null,
+     "do": 272895.0,
+     "del": 321786.48
+    }
+   }
+  },
+  {
+   "region": "NOAKHALI REGION",
+   "area": "SONAPUR",
+   "categories": {
+    "CSD": {
+     "tgt": 1751433.9112247268,
+     "ims": null,
+     "do": 474483.36,
+     "del": 558545.7599999999
+    },
+    "HOTFILL": {
+     "tgt": 202210.1169230769,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "BEVERAGE": {
+     "tgt": 1953644.0281478036,
+     "ims": 0.0,
+     "do": 474483.36,
+     "del": 558545.7599999999
+    },
+    "NOODLES": {
+     "tgt": 926668.7999999999,
+     "ims": null,
+     "do": 75340.8,
+     "del": 83404.8
+    },
+    "POTATO CRACKERS": {
+     "tgt": 152400.0,
+     "ims": null,
+     "do": 5656.0,
+     "del": 5656.0
+    },
+    "WATER": {
+     "tgt": 814563.38028169,
+     "ims": null,
+     "do": 23607.0,
+     "del": 424719.0
+    },
+    "OIL": {
+     "tgt": 1052446.0,
+     "ims": null,
+     "do": 398974.0,
+     "del": 398974.0
+    },
+    "DETERGENT": {
+     "tgt": 522122.0736842105,
+     "ims": null,
+     "do": 172308.0,
+     "del": 107784.0
+    }
+   }
+  },
+  {
+   "region": "RANGPUR REGION",
+   "area": "GAIBANDHA",
+   "categories": {
+    "CSD": {
+     "tgt": 2335245.2149663027,
+     "ims": null,
+     "do": 153942.72,
+     "del": 178555.0
+    },
+    "HOTFILL": {
+     "tgt": 202210.1169230769,
+     "ims": null,
+     "do": 8259.84,
+     "del": 8259.84
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 3427.2,
+     "del": 3427.2
+    },
+    "BEVERAGE": {
+     "tgt": 2537455.33188938,
+     "ims": 0.0,
+     "do": 165629.76,
+     "del": 190242.04
+    },
+    "NOODLES": {
+     "tgt": 285128.8615384615,
+     "ims": null,
+     "do": 46152.0,
+     "del": 171558.72
+    },
+    "POTATO CRACKERS": {
+     "tgt": 86360.0,
+     "ims": null,
+     "do": 50904.0,
+     "del": 50889.86
+    },
+    "WATER": {
+     "tgt": 72405.6338028169,
+     "ims": null,
+     "do": 16875.0,
+     "del": 97696.2
+    },
+    "OIL": {
+     "tgt": 4404042.0,
+     "ims": null,
+     "do": 2977078.0,
+     "del": 2631556.0
+    },
+    "DETERGENT": {
+     "tgt": 767826.5789473684,
+     "ims": null,
+     "do": 309123.0,
+     "del": 302049.0
+    }
+   }
+  },
+  {
+   "region": "RANGPUR REGION",
+   "area": "RANGPUR",
+   "categories": {
+    "CSD": {
+     "tgt": 2335245.2149663027,
+     "ims": null,
+     "do": 7091.700000000001,
+     "del": 12640.32
+    },
+    "HOTFILL": {
+     "tgt": 283094.16369230766,
+     "ims": null,
+     "do": 12389.76,
+     "del": 12389.76
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 3427.2,
+     "del": 3427.2
+    },
+    "BEVERAGE": {
+     "tgt": 2618339.3786586104,
+     "ims": 0.0,
+     "do": 22908.66,
+     "del": 28457.280000000002
+    },
+    "NOODLES": {
+     "tgt": 285128.8615384615,
+     "ims": null,
+     "do": 139351.68,
+     "del": 175823.99999999997
+    },
+    "POTATO CRACKERS": {
+     "tgt": 86360.0,
+     "ims": null,
+     "do": 20361.6,
+     "del": 23189.6
+    },
+    "WATER": {
+     "tgt": 108608.45070422534,
+     "ims": null,
+     "do": 181530.0,
+     "del": 129255.6
+    },
+    "OIL": {
+     "tgt": 4905675.0,
+     "ims": null,
+     "do": 1603726.0,
+     "del": 1513734.0
+    },
+    "DETERGENT": {
+     "tgt": 859965.7684210526,
+     "ims": null,
+     "do": 361692.0,
+     "del": 290688.0
+    }
+   }
+  },
+  {
+   "region": "SHITAKUNDU REGION",
+   "area": "FENI",
+   "categories": {
+    "CSD": {
+     "tgt": 1362226.3753970098,
+     "ims": null,
+     "do": 330965.51999999996,
+     "del": 317468.39999999997
+    },
+    "HOTFILL": {
+     "tgt": 161768.09353846151,
+     "ims": null,
+     "do": 42243.84,
+     "del": 42243.84
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 50160.39,
+     "del": 54534.24
+    },
+    "BEVERAGE": {
+     "tgt": 1523994.4689354713,
+     "ims": 0.0,
+     "do": 423369.75,
+     "del": 414246.48
+    },
+    "NOODLES": {
+     "tgt": 427693.2923076923,
+     "ims": null,
+     "do": 45734.4,
+     "del": 45734.4
+    },
+    "POTATO CRACKERS": {
+     "tgt": 40640.0,
+     "ims": null,
+     "do": 22624.0,
+     "del": 22624.0
+    },
+    "WATER": {
+     "tgt": 452535.2112676056,
+     "ims": null,
+     "do": 161580.0,
+     "del": 184188.0
+    },
+    "OIL": {
+     "tgt": 971299.0,
+     "ims": null,
+     "do": 1528000.0,
+     "del": 1528000.0
+    },
+    "DETERGENT": {
+     "tgt": 460695.947368421,
+     "ims": null,
+     "do": 144570.0,
+     "del": 144570.0
+    }
+   }
+  },
+  {
+   "region": "SHITAKUNDU REGION",
+   "area": "HALISHAHAR",
+   "categories": {
+    "CSD": {
+     "tgt": 973018.8395692927,
+     "ims": null,
+     "do": 63783.36000000001,
+     "del": 71876.16
+    },
+    "HOTFILL": {
+     "tgt": 161768.09353846151,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "BEVERAGE": {
+     "tgt": 1134786.9331077542,
+     "ims": 0.0,
+     "do": 63783.36000000001,
+     "del": 71876.16
+    },
+    "NOODLES": {
+     "tgt": 285128.8615384615,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 40640.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "WATER": {
+     "tgt": 633549.2957746478,
+     "ims": null,
+     "do": 165120.0,
+     "del": 223644.0
+    },
+    "OIL": {
+     "tgt": 413110.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "DETERGENT": {
+     "tgt": 460695.947368421,
+     "ims": null,
+     "do": 40605.0,
+     "del": 40605.0
+    }
+   }
+  },
+  {
+   "region": "SHITAKUNDU REGION",
+   "area": "SHITAKUNDU",
+   "categories": {
+    "CSD": {
+     "tgt": 2335245.2149663027,
+     "ims": null,
+     "do": 492385.68,
+     "del": 645850.32
+    },
+    "HOTFILL": {
+     "tgt": 222431.12861538457,
+     "ims": null,
+     "do": 26540.64,
+     "del": 25164.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 17136.0,
+     "del": 36313.65
+    },
+    "BEVERAGE": {
+     "tgt": 2557676.343581687,
+     "ims": 0.0,
+     "do": 536062.3200000001,
+     "del": 707327.97
+    },
+    "NOODLES": {
+     "tgt": 427693.2923076923,
+     "ims": null,
+     "do": 43013.28,
+     "del": 135312.48
+    },
+    "POTATO CRACKERS": {
+     "tgt": 50800.0,
+     "ims": null,
+     "do": 87668.0,
+     "del": 94780.0
+    },
+    "WATER": {
+     "tgt": 1176591.5492957747,
+     "ims": null,
+     "do": 355443.0,
+     "del": 400092.0
+    },
+    "OIL": {
+     "tgt": 1649979.0,
+     "ims": null,
+     "do": 1084764.0,
+     "del": 1088040.0
+    },
+    "DETERGENT": {
+     "tgt": 460695.947368421,
+     "ims": null,
+     "do": 120519.0,
+     "del": 152004.8
+    }
+   }
+  },
+  {
+   "region": "SYLHET REGION",
+   "area": "BEANIBAZAR",
+   "categories": {
+    "CSD": {
+     "tgt": 2023879.186304129,
+     "ims": null,
+     "do": 218140.31999999995,
+     "del": 243213.1199999999
+    },
+    "HOTFILL": {
+     "tgt": 262873.15199999994,
+     "ims": null,
+     "do": 56482.56,
+     "del": 56482.56
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 84891.52,
+     "del": 114828.0
+    },
+    "BEVERAGE": {
+     "tgt": 2286752.338304129,
+     "ims": 0.0,
+     "do": 359514.39999999997,
+     "del": 414523.67999999993
+    },
+    "NOODLES": {
+     "tgt": 712822.1538461538,
+     "ims": null,
+     "do": 54996.479999999996,
+     "del": 119508.48000000001
+    },
+    "POTATO CRACKERS": {
+     "tgt": 101600.0,
+     "ims": null,
+     "do": 20361.6,
+     "del": 20361.6
+    },
+    "WATER": {
+     "tgt": 633549.2957746478,
+     "ims": null,
+     "do": 418386.0,
+     "del": 545367.6000000001
+    },
+    "OIL": {
+     "tgt": 3516349.0,
+     "ims": null,
+     "do": 1949790.0,
+     "del": 1949790.0
+    },
+    "DETERGENT": {
+     "tgt": 307130.63157894736,
+     "ims": null,
+     "do": 173304.0,
+     "del": 162693.0
+    }
+   }
+  },
+  {
+   "region": "SYLHET REGION",
+   "area": "MOULVIBAZAR",
+   "categories": {
+    "CSD": {
+     "tgt": 1907116.9255558138,
+     "ims": null,
+     "do": 165533.75999999998,
+     "del": 165533.75999999998
+    },
+    "HOTFILL": {
+     "tgt": 202210.1169230769,
+     "ims": null,
+     "do": 17680.32,
+     "del": 17680.32
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 40664.55,
+     "del": 52103.850000000006
+    },
+    "BEVERAGE": {
+     "tgt": 2109327.0424788906,
+     "ims": 0.0,
+     "do": 223878.63,
+     "del": 235317.93
+    },
+    "NOODLES": {
+     "tgt": 356411.0769230769,
+     "ims": null,
+     "do": 19491.84,
+     "del": 19491.84
+    },
+    "POTATO CRACKERS": {
+     "tgt": 50800.0,
+     "ims": null,
+     "do": 36764.0,
+     "del": 36764.0
+    },
+    "WATER": {
+     "tgt": 1086084.5070422534,
+     "ims": null,
+     "do": 477606.0,
+     "del": 344256.0
+    },
+    "OIL": {
+     "tgt": 351635.0,
+     "ims": null,
+     "do": 1417740.0,
+     "del": 1417740.0
+    },
+    "DETERGENT": {
+     "tgt": 307130.63157894736,
+     "ims": null,
+     "do": 255222.0,
+     "del": 255222.0
+    }
+   }
+  },
+  {
+   "region": "SYLHET REGION",
+   "area": "SUNAMGANJ",
+   "categories": {
+    "CSD": {
+     "tgt": 2996898.0258734217,
+     "ims": null,
+     "do": 679889.2799999999,
+     "del": 746178.72
+    },
+    "HOTFILL": {
+     "tgt": 202210.1169230769,
+     "ims": null,
+     "do": 29165.760000000002,
+     "del": 29165.760000000002
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 16822.5,
+     "del": 0
+    },
+    "BEVERAGE": {
+     "tgt": 3199108.1427964987,
+     "ims": 0.0,
+     "do": 725877.5399999999,
+     "del": 775344.48
+    },
+    "NOODLES": {
+     "tgt": 392052.1846153846,
+     "ims": null,
+     "do": 183015.36,
+     "del": 210951.35999999996
+    },
+    "POTATO CRACKERS": {
+     "tgt": 203200.0,
+     "ims": null,
+     "do": 178164.0,
+     "del": 178164.0
+    },
+    "WATER": {
+     "tgt": 181014.08450704225,
+     "ims": null,
+     "do": 78750.0,
+     "del": 179160.0
+    },
+    "OIL": {
+     "tgt": 12090830.0,
+     "ims": null,
+     "do": 4621514.0,
+     "del": 4354384.0
+    },
+    "DETERGENT": {
+     "tgt": 307130.63157894736,
+     "ims": null,
+     "do": 911833.9,
+     "del": 871533.5
+    }
+   }
+  },
+  {
+   "region": "SYLHET REGION",
+   "area": "SYLHET",
+   "categories": {
+    "CSD": {
+     "tgt": 7122497.905647223,
+     "ims": null,
+     "do": 1237385.759999999,
+     "del": 1400902.079999999
+    },
+    "HOTFILL": {
+     "tgt": 262873.15199999994,
+     "ims": null,
+     "do": 37641.6,
+     "del": 37641.6
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 57318.799999999996,
+     "del": 122728.14999999998
+    },
+    "BEVERAGE": {
+     "tgt": 7385371.057647223,
+     "ims": 0.0,
+     "do": 1332346.1599999992,
+     "del": 1561271.829999999
+    },
+    "NOODLES": {
+     "tgt": 712822.1538461538,
+     "ims": null,
+     "do": 135905.28,
+     "del": 227374.08000000002
+    },
+    "POTATO CRACKERS": {
+     "tgt": 127000.0,
+     "ims": null,
+     "do": 158368.0,
+     "del": 158368.0
+    },
+    "WATER": {
+     "tgt": 1086084.5070422534,
+     "ims": null,
+     "do": 453396.0,
+     "del": 448120.8
+    },
+    "OIL": {
+     "tgt": 5510586.0,
+     "ims": null,
+     "do": 3740418.0,
+     "del": 3550346.0
+    },
+    "DETERGENT": {
+     "tgt": 307130.63157894736,
+     "ims": null,
+     "do": 717381.0,
+     "del": 679295.06
+    }
+   }
+  }
+ ],
+ "ctn_records": [
+  {
+   "region": "BARISHAL REGION",
+   "area": "BARISHAL",
+   "categories": {
+    "CSD": {
+     "tgt": 4700.0,
+     "ims": null,
+     "do": 944.0,
+     "del": 1047.0
+    },
+    "HOTFILL": {
+     "tgt": 600.0,
+     "ims": null,
+     "do": 55.0,
+     "del": 37.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 6.0,
+     "del": 0
+    },
+    "BEVERAGE": {
+     "tgt": 5300.0,
+     "ims": null,
+     "do": 1005.0,
+     "del": 1084.0
+    },
+    "NOODLES": {
+     "tgt": 700.0,
+     "ims": null,
+     "do": 139.0,
+     "del": 139.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 20.0,
+     "del": 31.0
+    },
+    "WATER": {
+     "tgt": 1500.0,
+     "ims": null,
+     "do": 285.0,
+     "del": 176.0
+    },
+    "OIL": {
+     "tgt": 658.937022206043,
+     "ims": null,
+     "do": 208.0,
+     "del": 208.0
+    },
+    "DETERGENT": {
+     "tgt": 180.0,
+     "ims": null,
+     "do": 31.0,
+     "del": 129.0
+    }
+   },
+   "national": {
+    "tgt": 7830.0,
+    "do": 1657.0,
+    "del": 1638.0
+   }
+  },
+  {
+   "region": "BARISHAL REGION",
+   "area": "BHOLA",
+   "categories": {
+    "CSD": {
+     "tgt": 2300.0,
+     "ims": null,
+     "do": 338.0,
+     "del": 386.0
+    },
+    "HOTFILL": {
+     "tgt": 400.0,
+     "ims": null,
+     "do": 67.0,
+     "del": 61.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 30.0,
+     "del": 30.0
+    },
+    "BEVERAGE": {
+     "tgt": 2700.0,
+     "ims": null,
+     "do": 435.0,
+     "del": 477.0
+    },
+    "NOODLES": {
+     "tgt": 1100.0,
+     "ims": null,
+     "do": 108.0,
+     "del": 108.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 100.0,
+     "ims": null,
+     "do": 15.0,
+     "del": 35.0
+    },
+    "WATER": {
+     "tgt": 300.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "OIL": {
+     "tgt": 302.2570076447033,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "DETERGENT": {
+     "tgt": 130.0,
+     "ims": null,
+     "do": 9.0,
+     "del": 9.0
+    }
+   },
+   "national": {
+    "tgt": 4330.0,
+    "do": 558.0,
+    "del": 620.0
+   }
+  },
+  {
+   "region": "CHANDPUR REGION",
+   "area": "CHANDPUR",
+   "categories": {
+    "CSD": {
+     "tgt": 2800.0,
+     "ims": null,
+     "do": 686.0,
+     "del": 660.0
+    },
+    "HOTFILL": {
+     "tgt": 400.0,
+     "ims": null,
+     "do": 66.0,
+     "del": 60.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 12.0,
+     "del": 12.0
+    },
+    "BEVERAGE": {
+     "tgt": 3200.0,
+     "ims": null,
+     "do": 764.0,
+     "del": 732.0
+    },
+    "NOODLES": {
+     "tgt": 1300.0,
+     "ims": null,
+     "do": 328.0,
+     "del": 322.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 120.0,
+     "ims": null,
+     "do": 10.0,
+     "del": 10.0
+    },
+    "WATER": {
+     "tgt": 9000.0,
+     "ims": null,
+     "do": 2185.0,
+     "del": 3909.0
+    },
+    "OIL": {
+     "tgt": 413.6148525664361,
+     "ims": null,
+     "do": 0,
+     "del": 4.0
+    },
+    "DETERGENT": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 43.0,
+     "del": 48.0
+    }
+   },
+   "national": {
+    "tgt": 13770.0,
+    "do": 3287.0,
+    "del": 4977.0
+   }
+  },
+  {
+   "region": "CHANDPUR REGION",
+   "area": "KACHUA",
+   "categories": {
+    "CSD": {
+     "tgt": 2600.0,
+     "ims": null,
+     "do": 452.0,
+     "del": 474.0
+    },
+    "HOTFILL": {
+     "tgt": 400.0,
+     "ims": null,
+     "do": 27.0,
+     "del": 23.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "BEVERAGE": {
+     "tgt": 3000.0,
+     "ims": null,
+     "do": 479.0,
+     "del": 497.0
+    },
+    "NOODLES": {
+     "tgt": 1000.0,
+     "ims": null,
+     "do": 77.0,
+     "del": 197.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 100.0,
+     "ims": null,
+     "do": 18.0,
+     "del": 35.0
+    },
+    "WATER": {
+     "tgt": 6500.0,
+     "ims": null,
+     "do": 1250.0,
+     "del": 2845.0
+    },
+    "OIL": {
+     "tgt": 225.22752093192574,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "DETERGENT": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 19.0,
+     "del": 19.0
+    }
+   },
+   "national": {
+    "tgt": 10750.0,
+    "do": 1824.0,
+    "del": 3574.0
+   }
+  },
+  {
+   "region": "CHANDPUR REGION",
+   "area": "LAKSHAM",
+   "categories": {
+    "CSD": {
+     "tgt": 2800.0,
+     "ims": null,
+     "do": 150.0,
+     "del": 150.0
+    },
+    "HOTFILL": {
+     "tgt": 500.0,
+     "ims": null,
+     "do": 100.0,
+     "del": 100.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "BEVERAGE": {
+     "tgt": 3300.0,
+     "ims": null,
+     "do": 250.0,
+     "del": 250.0
+    },
+    "NOODLES": {
+     "tgt": 1000.0,
+     "ims": null,
+     "do": 0,
+     "del": 144.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 100.0,
+     "ims": null,
+     "do": 20.0,
+     "del": 20.0
+    },
+    "WATER": {
+     "tgt": 14000.0,
+     "ims": null,
+     "do": 9018.0,
+     "del": 12368.0
+    },
+    "OIL": {
+     "tgt": 246.15944666909354,
+     "ims": null,
+     "do": 0,
+     "del": 8.0
+    },
+    "DETERGENT": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 46.0,
+     "del": 46.0
+    }
+   },
+   "national": {
+    "tgt": 18550.0,
+    "do": 9288.0,
+    "del": 12790.0
+   }
+  },
+  {
+   "region": "CHITTAGONG REGION",
+   "area": "BANDAR",
+   "categories": {
+    "CSD": {
+     "tgt": 3000.0,
+     "ims": null,
+     "do": 541.0,
+     "del": 804.0
+    },
+    "HOTFILL": {
+     "tgt": 450.0,
+     "ims": null,
+     "do": 48.0,
+     "del": 48.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 20.0,
+     "del": 20.0
+    },
+    "BEVERAGE": {
+     "tgt": 3450.0,
+     "ims": null,
+     "do": 609.0,
+     "del": 872.0
+    },
+    "NOODLES": {
+     "tgt": 550.0,
+     "ims": null,
+     "do": 5.0,
+     "del": 75.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 20.0,
+     "del": 20.0
+    },
+    "WATER": {
+     "tgt": 5000.0,
+     "ims": null,
+     "do": 1294.0,
+     "del": 1837.0
+    },
+    "OIL": {
+     "tgt": 72.0058245358573,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "DETERGENT": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 25.0,
+     "del": 33.0
+    }
+   },
+   "national": {
+    "tgt": 9300.0,
+    "do": 1928.0,
+    "del": 2804.0
+   }
+  },
+  {
+   "region": "CHITTAGONG REGION",
+   "area": "CHAKARIA",
+   "categories": {
+    "CSD": {
+     "tgt": 4300.0,
+     "ims": null,
+     "do": 2621.0,
+     "del": 2968.0
+    },
+    "HOTFILL": {
+     "tgt": 450.0,
+     "ims": null,
+     "do": 170.0,
+     "del": 190.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 62.0,
+     "del": 62.0
+    },
+    "BEVERAGE": {
+     "tgt": 4750.0,
+     "ims": null,
+     "do": 2853.0,
+     "del": 3220.0
+    },
+    "NOODLES": {
+     "tgt": 450.0,
+     "ims": null,
+     "do": 51.0,
+     "del": 51.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 14.0,
+     "del": 14.0
+    },
+    "WATER": {
+     "tgt": 3500.0,
+     "ims": null,
+     "do": 3801.0,
+     "del": 4109.0
+    },
+    "OIL": {
+     "tgt": 72.0058245358573,
+     "ims": null,
+     "do": 125.0,
+     "del": 125.0
+    },
+    "DETERGENT": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 14.0,
+     "del": 15.0
+    }
+   },
+   "national": {
+    "tgt": 9000.0,
+    "do": 6844.0,
+    "del": 7519.0
+   }
+  },
+  {
+   "region": "CHITTAGONG REGION",
+   "area": "CHAKTAI",
+   "categories": {
+    "CSD": {
+     "tgt": 4500.0,
+     "ims": null,
+     "do": 1498.0,
+     "del": 1546.0
+    },
+    "HOTFILL": {
+     "tgt": 500.0,
+     "ims": null,
+     "do": 44.0,
+     "del": 44.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 81.0,
+     "del": 81.0
+    },
+    "BEVERAGE": {
+     "tgt": 5000.0,
+     "ims": null,
+     "do": 1623.0,
+     "del": 1671.0
+    },
+    "NOODLES": {
+     "tgt": 1300.0,
+     "ims": null,
+     "do": 0,
+     "del": 500.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 80.0,
+     "ims": null,
+     "do": 22.0,
+     "del": 22.0
+    },
+    "WATER": {
+     "tgt": 7000.0,
+     "ims": null,
+     "do": 2994.0,
+     "del": 4098.0
+    },
+    "OIL": {
+     "tgt": 74.51765562431744,
+     "ims": null,
+     "do": 90.0,
+     "del": 125.0
+    },
+    "DETERGENT": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 85.0,
+     "del": 85.0
+    }
+   },
+   "national": {
+    "tgt": 13530.0,
+    "do": 4729.0,
+    "del": 6416.0
+   }
+  },
+  {
+   "region": "CHITTAGONG REGION",
+   "area": "COX'S BAZAR",
+   "categories": {
+    "CSD": {
+     "tgt": 4800.0,
+     "ims": null,
+     "do": 1421.0,
+     "del": 1493.0
+    },
+    "HOTFILL": {
+     "tgt": 400.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 89.0,
+     "del": 39.0
+    },
+    "BEVERAGE": {
+     "tgt": 5200.0,
+     "ims": null,
+     "do": 1510.0,
+     "del": 1532.0
+    },
+    "NOODLES": {
+     "tgt": 400.0,
+     "ims": null,
+     "do": 24.0,
+     "del": 24.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 42.0,
+     "del": 42.0
+    },
+    "WATER": {
+     "tgt": 15000.0,
+     "ims": null,
+     "do": 13684.0,
+     "del": 13002.0
+    },
+    "OIL": {
+     "tgt": 670.6589006188569,
+     "ims": null,
+     "do": 398.0,
+     "del": 398.0
+    },
+    "DETERGENT": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 35.0,
+     "del": 40.0
+    }
+   },
+   "national": {
+    "tgt": 20900.0,
+    "do": 15658.0,
+    "del": 14998.0
+   }
+  },
+  {
+   "region": "CHITTAGONG REGION",
+   "area": "PATIYA",
+   "categories": {
+    "CSD": {
+     "tgt": 4100.0,
+     "ims": null,
+     "do": 847.0,
+     "del": 1154.0
+    },
+    "HOTFILL": {
+     "tgt": 450.0,
+     "ims": null,
+     "do": 72.0,
+     "del": 66.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 20.0,
+     "del": 20.0
+    },
+    "BEVERAGE": {
+     "tgt": 4550.0,
+     "ims": null,
+     "do": 939.0,
+     "del": 1240.0
+    },
+    "NOODLES": {
+     "tgt": 450.0,
+     "ims": null,
+     "do": 12.0,
+     "del": 12.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 300.0,
+     "ims": null,
+     "do": 2.0,
+     "del": 2.0
+    },
+    "WATER": {
+     "tgt": 6000.0,
+     "ims": null,
+     "do": 2860.0,
+     "del": 3093.0
+    },
+    "OIL": {
+     "tgt": 112.19512195121952,
+     "ims": null,
+     "do": 57.0,
+     "del": 57.0
+    },
+    "DETERGENT": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 74.0,
+     "del": 91.0
+    }
+   },
+   "national": {
+    "tgt": 11450.0,
+    "do": 3870.0,
+    "del": 4404.0
+   }
+  },
+  {
+   "region": "CHITTAGONG REGION",
+   "area": "SATKANIA",
+   "categories": {
+    "CSD": {
+     "tgt": 3000.0,
+     "ims": null,
+     "do": 1014.0,
+     "del": 1184.0
+    },
+    "HOTFILL": {
+     "tgt": 300.0,
+     "ims": null,
+     "do": 112.0,
+     "del": 106.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 30.0,
+     "del": 30.0
+    },
+    "BEVERAGE": {
+     "tgt": 3300.0,
+     "ims": null,
+     "do": 1156.0,
+     "del": 1320.0
+    },
+    "NOODLES": {
+     "tgt": 300.0,
+     "ims": null,
+     "do": 12.0,
+     "del": 12.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 140.0,
+     "ims": null,
+     "do": 11.0,
+     "del": 11.0
+    },
+    "WATER": {
+     "tgt": 2500.0,
+     "ims": null,
+     "do": 500.0,
+     "del": 1334.0
+    },
+    "OIL": {
+     "tgt": 96.28685839097197,
+     "ims": null,
+     "do": 79.0,
+     "del": 79.0
+    },
+    "DETERGENT": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 5.0,
+     "del": 5.0
+    }
+   },
+   "national": {
+    "tgt": 6390.0,
+    "do": 1758.0,
+    "del": 2756.0
+   }
+  },
+  {
+   "region": "CUMILLA REGION",
+   "area": "B.BARIA",
+   "categories": {
+    "CSD": {
+     "tgt": 4200.0,
+     "ims": null,
+     "do": 669.0,
+     "del": 555.0
+    },
+    "HOTFILL": {
+     "tgt": 400.0,
+     "ims": null,
+     "do": 60.0,
+     "del": 60.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 70.0,
+     "del": 88.0
+    },
+    "BEVERAGE": {
+     "tgt": 4600.0,
+     "ims": null,
+     "do": 799.0,
+     "del": 703.0
+    },
+    "NOODLES": {
+     "tgt": 350.0,
+     "ims": null,
+     "do": 12.0,
+     "del": 17.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 300.0,
+     "ims": null,
+     "do": 58.0,
+     "del": 90.0
+    },
+    "WATER": {
+     "tgt": 11000.0,
+     "ims": null,
+     "do": 3950.0,
+     "del": 4600.0
+    },
+    "OIL": {
+     "tgt": 389.33381871132144,
+     "ims": null,
+     "do": 120.0,
+     "del": 127.0
+    },
+    "DETERGENT": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 59.0,
+     "del": 54.0
+    }
+   },
+   "national": {
+    "tgt": 16400.0,
+    "do": 4939.0,
+    "del": 5537.0
+   }
+  },
+  {
+   "region": "CUMILLA REGION",
+   "area": "CUMILLA",
+   "categories": {
+    "CSD": {
+     "tgt": 6300.0,
+     "ims": null,
+     "do": 1719.0,
+     "del": 1861.0
+    },
+    "HOTFILL": {
+     "tgt": 750.0,
+     "ims": null,
+     "do": 55.0,
+     "del": 49.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 30.0,
+     "del": 16.0
+    },
+    "BEVERAGE": {
+     "tgt": 7050.0,
+     "ims": null,
+     "do": 1804.0,
+     "del": 1926.0
+    },
+    "NOODLES": {
+     "tgt": 1000.0,
+     "ims": null,
+     "do": 429.0,
+     "del": 2115.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 200.0,
+     "ims": null,
+     "do": 21.0,
+     "del": 59.0
+    },
+    "WATER": {
+     "tgt": 22000.0,
+     "ims": null,
+     "do": 6495.0,
+     "del": 15095.0
+    },
+    "OIL": {
+     "tgt": 229.4139060793593,
+     "ims": null,
+     "do": 0,
+     "del": 20.0
+    },
+    "DETERGENT": {
+     "tgt": 220.0,
+     "ims": null,
+     "do": 73.0,
+     "del": 85.0
+    }
+   },
+   "national": {
+    "tgt": 30470.0,
+    "do": 8749.0,
+    "del": 19215.0
+   }
+  },
+  {
+   "region": "CUMILLA REGION",
+   "area": "DAUDKANDI",
+   "categories": {
+    "CSD": {
+     "tgt": 4700.0,
+     "ims": null,
+     "do": 528.0,
+     "del": 491.0
+    },
+    "HOTFILL": {
+     "tgt": 550.0,
+     "ims": null,
+     "do": 106.0,
+     "del": 76.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 59.0,
+     "del": 35.0
+    },
+    "BEVERAGE": {
+     "tgt": 5250.0,
+     "ims": null,
+     "do": 693.0,
+     "del": 602.0
+    },
+    "NOODLES": {
+     "tgt": 600.0,
+     "ims": null,
+     "do": 36.0,
+     "del": 36.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 200.0,
+     "ims": null,
+     "do": 90.0,
+     "del": 90.0
+    },
+    "WATER": {
+     "tgt": 9500.0,
+     "ims": null,
+     "do": 489.0,
+     "del": 6365.0
+    },
+    "OIL": {
+     "tgt": 169.129959956316,
+     "ims": null,
+     "do": 120.0,
+     "del": 40.0
+    },
+    "DETERGENT": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 48.0,
+     "del": 49.0
+    }
+   },
+   "national": {
+    "tgt": 15700.0,
+    "do": 1428.0,
+    "del": 7133.0
+   }
+  },
+  {
+   "region": "CUMILLA REGION",
+   "area": "HABIGANJ",
+   "categories": {
+    "CSD": {
+     "tgt": 5800.0,
+     "ims": null,
+     "do": 3576.0,
+     "del": 3653.0
+    },
+    "HOTFILL": {
+     "tgt": 600.0,
+     "ims": null,
+     "do": 10.0,
+     "del": 10.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 100.0,
+     "del": 150.0
+    },
+    "BEVERAGE": {
+     "tgt": 6400.0,
+     "ims": null,
+     "do": 3686.0,
+     "del": 3813.0
+    },
+    "NOODLES": {
+     "tgt": 600.0,
+     "ims": null,
+     "do": 80.0,
+     "del": 120.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 250.0,
+     "ims": null,
+     "do": 7.0,
+     "del": 0
+    },
+    "WATER": {
+     "tgt": 2500.0,
+     "ims": null,
+     "do": 341.0,
+     "del": 241.0
+    },
+    "OIL": {
+     "tgt": 295.5587914088096,
+     "ims": null,
+     "do": 343.0,
+     "del": 266.0
+    },
+    "DETERGENT": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 42.0,
+     "del": 36.0
+    }
+   },
+   "national": {
+    "tgt": 9900.0,
+    "do": 4457.0,
+    "del": 4440.0
+   }
+  },
+  {
+   "region": "DHAKA REGION",
+   "area": "JATRABARI",
+   "categories": {
+    "CSD": {
+     "tgt": 3500.0,
+     "ims": null,
+     "do": 459.0,
+     "del": 473.0
+    },
+    "HOTFILL": {
+     "tgt": 500.0,
+     "ims": null,
+     "do": 61.0,
+     "del": 61.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 43.0,
+     "del": 43.0
+    },
+    "BEVERAGE": {
+     "tgt": 4000.0,
+     "ims": null,
+     "do": 563.0,
+     "del": 577.0
+    },
+    "NOODLES": {
+     "tgt": 2200.0,
+     "ims": null,
+     "do": 406.0,
+     "del": 336.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 100.0,
+     "ims": null,
+     "do": 42.0,
+     "del": 42.0
+    },
+    "WATER": {
+     "tgt": 19000.0,
+     "ims": null,
+     "do": 4098.0,
+     "del": 6670.0
+    },
+    "OIL": {
+     "tgt": 55.260283946123046,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "DETERGENT": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 16.0,
+     "del": 11.0
+    }
+   },
+   "national": {
+    "tgt": 25450.0,
+    "do": 5109.0,
+    "del": 7625.0
+   }
+  },
+  {
+   "region": "DHAKA REGION",
+   "area": "NARAYANGANJ",
+   "categories": {
+    "CSD": {
+     "tgt": 4800.0,
+     "ims": null,
+     "do": 541.0,
+     "del": 523.0
+    },
+    "HOTFILL": {
+     "tgt": 450.0,
+     "ims": null,
+     "do": 75.0,
+     "del": 57.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 27.0,
+     "del": 35.0
+    },
+    "BEVERAGE": {
+     "tgt": 5250.0,
+     "ims": null,
+     "do": 643.0,
+     "del": 615.0
+    },
+    "NOODLES": {
+     "tgt": 1000.0,
+     "ims": null,
+     "do": 5.0,
+     "del": 5.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 100.0,
+     "ims": null,
+     "do": 27.0,
+     "del": 27.0
+    },
+    "WATER": {
+     "tgt": 1500.0,
+     "ims": null,
+     "do": 2765.0,
+     "del": 1886.0
+    },
+    "OIL": {
+     "tgt": 429.52311612668365,
+     "ims": null,
+     "do": 118.0,
+     "del": 118.0
+    },
+    "DETERGENT": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 163.0,
+     "del": 163.0
+    }
+   },
+   "national": {
+    "tgt": 8000.0,
+    "do": 3558.0,
+    "del": 2651.0
+   }
+  },
+  {
+   "region": "DHAKA REGION",
+   "area": "NARSINGDI",
+   "categories": {
+    "CSD": {
+     "tgt": 4800.0,
+     "ims": null,
+     "do": 126.0,
+     "del": 126.0
+    },
+    "HOTFILL": {
+     "tgt": 550.0,
+     "ims": null,
+     "do": 51.0,
+     "del": 45.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 15.0,
+     "del": 15.0
+    },
+    "BEVERAGE": {
+     "tgt": 5350.0,
+     "ims": null,
+     "do": 192.0,
+     "del": 186.0
+    },
+    "NOODLES": {
+     "tgt": 500.0,
+     "ims": null,
+     "do": 45.0,
+     "del": 81.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 100.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "WATER": {
+     "tgt": 10000.0,
+     "ims": null,
+     "do": 6156.0,
+     "del": 6721.0
+    },
+    "OIL": {
+     "tgt": 13.396432471787405,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "DETERGENT": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 44.0,
+     "del": 47.0
+    }
+   },
+   "national": {
+    "tgt": 16100.0,
+    "do": 6393.0,
+    "del": 6988.0
+   }
+  },
+  {
+   "region": "DHAKA REGION",
+   "area": "UTTARA",
+   "categories": {
+    "CSD": {
+     "tgt": 3000.0,
+     "ims": null,
+     "do": 289.0,
+     "del": 319.0
+    },
+    "HOTFILL": {
+     "tgt": 500.0,
+     "ims": null,
+     "do": 85.0,
+     "del": 85.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "BEVERAGE": {
+     "tgt": 3500.0,
+     "ims": null,
+     "do": 374.0,
+     "del": 404.0
+    },
+    "NOODLES": {
+     "tgt": 900.0,
+     "ims": null,
+     "do": 733.0,
+     "del": 1154.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 100.0,
+     "ims": null,
+     "do": 18.0,
+     "del": 7.0
+    },
+    "WATER": {
+     "tgt": 21000.0,
+     "ims": null,
+     "do": 8202.0,
+     "del": 11763.0
+    },
+    "OIL": {
+     "tgt": 26.79286494357481,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "DETERGENT": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 22.0,
+     "del": 22.0
+    }
+   },
+   "national": {
+    "tgt": 25650.0,
+    "do": 9327.0,
+    "del": 13328.0
+   }
+  },
+  {
+   "region": "HATHAZARI REGION",
+   "area": "HATHAZARI",
+   "categories": {
+    "CSD": {
+     "tgt": 3800.0,
+     "ims": null,
+     "do": 1172.0,
+     "del": 1350.0
+    },
+    "HOTFILL": {
+     "tgt": 400.0,
+     "ims": null,
+     "do": 107.0,
+     "del": 107.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 38.0,
+     "del": 44.0
+    },
+    "BEVERAGE": {
+     "tgt": 4200.0,
+     "ims": null,
+     "do": 1317.0,
+     "del": 1501.0
+    },
+    "NOODLES": {
+     "tgt": 550.0,
+     "ims": null,
+     "do": 15.0,
+     "del": 27.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 200.0,
+     "ims": null,
+     "do": 24.0,
+     "del": 24.0
+    },
+    "WATER": {
+     "tgt": 2000.0,
+     "ims": null,
+     "do": 310.0,
+     "del": 714.0
+    },
+    "OIL": {
+     "tgt": 89.58864215507826,
+     "ims": null,
+     "do": 41.0,
+     "del": 58.0
+    },
+    "DETERGENT": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 44.0,
+     "del": 63.0
+    }
+   },
+   "national": {
+    "tgt": 7100.0,
+    "do": 1707.0,
+    "del": 2324.0
+   }
+  },
+  {
+   "region": "HATHAZARI REGION",
+   "area": "KHAGRACHHARI",
+   "categories": {
+    "CSD": {
+     "tgt": 6500.0,
+     "ims": null,
+     "do": 2351.0,
+     "del": 2253.0
+    },
+    "HOTFILL": {
+     "tgt": 500.0,
+     "ims": null,
+     "do": 67.0,
+     "del": 0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 259.0,
+     "del": 209.0
+    },
+    "BEVERAGE": {
+     "tgt": 7000.0,
+     "ims": null,
+     "do": 2677.0,
+     "del": 2462.0
+    },
+    "NOODLES": {
+     "tgt": 600.0,
+     "ims": null,
+     "do": 53.0,
+     "del": 101.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 250.0,
+     "ims": null,
+     "do": 20.0,
+     "del": 20.0
+    },
+    "WATER": {
+     "tgt": 300.0,
+     "ims": null,
+     "do": 120.0,
+     "del": 195.0
+    },
+    "OIL": {
+     "tgt": 283.83691299599565,
+     "ims": null,
+     "do": 413.0,
+     "del": 413.0
+    },
+    "DETERGENT": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 44.0,
+     "del": 47.0
+    }
+   },
+   "national": {
+    "tgt": 8300.0,
+    "do": 3283.0,
+    "del": 3191.0
+   }
+  },
+  {
+   "region": "HATHAZARI REGION",
+   "area": "OXYGEN",
+   "categories": {
+    "CSD": {
+     "tgt": 2800.0,
+     "ims": null,
+     "do": 624.0,
+     "del": 738.0
+    },
+    "HOTFILL": {
+     "tgt": 400.0,
+     "ims": null,
+     "do": 88.0,
+     "del": 82.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 65.0,
+     "del": 65.0
+    },
+    "BEVERAGE": {
+     "tgt": 3200.0,
+     "ims": null,
+     "do": 777.0,
+     "del": 885.0
+    },
+    "NOODLES": {
+     "tgt": 500.0,
+     "ims": null,
+     "do": 0,
+     "del": 96.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 100.0,
+     "ims": null,
+     "do": 50.0,
+     "del": 50.0
+    },
+    "WATER": {
+     "tgt": 2000.0,
+     "ims": null,
+     "do": 1329.0,
+     "del": 1497.0
+    },
+    "OIL": {
+     "tgt": 20.93192573716782,
+     "ims": null,
+     "do": 70.0,
+     "del": 70.0
+    },
+    "DETERGENT": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 14.0,
+     "del": 20.0
+    }
+   },
+   "national": {
+    "tgt": 5950.0,
+    "do": 2226.0,
+    "del": 2598.0
+   }
+  },
+  {
+   "region": "HATHAZARI REGION",
+   "area": "RANGAMATI",
+   "categories": {
+    "CSD": {
+     "tgt": 4200.0,
+     "ims": null,
+     "do": 3790.0,
+     "del": 4143.0
+    },
+    "HOTFILL": {
+     "tgt": 350.0,
+     "ims": null,
+     "do": 36.0,
+     "del": 30.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 44.0,
+     "del": 44.0
+    },
+    "BEVERAGE": {
+     "tgt": 4550.0,
+     "ims": null,
+     "do": 3870.0,
+     "del": 4217.0
+    },
+    "NOODLES": {
+     "tgt": 750.0,
+     "ims": null,
+     "do": 0,
+     "del": 99.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 200.0,
+     "ims": null,
+     "do": 52.0,
+     "del": 52.0
+    },
+    "WATER": {
+     "tgt": 700.0,
+     "ims": null,
+     "do": 560.0,
+     "del": 956.0
+    },
+    "OIL": {
+     "tgt": 190.89916272297052,
+     "ims": null,
+     "do": 635.0,
+     "del": 635.0
+    },
+    "DETERGENT": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 29.0,
+     "del": 40.0
+    }
+   },
+   "national": {
+    "tgt": 6350.0,
+    "do": 5117.0,
+    "del": 5959.0
+   }
+  },
+  {
+   "region": "HEAD OFFICE",
+   "area": "GAZIPUR",
+   "categories": {
+    "CSD": {
+     "tgt": 2000.0,
+     "ims": null,
+     "do": 96.0,
+     "del": 81.0
+    },
+    "HOTFILL": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "BEVERAGE": {
+     "tgt": 2150.0,
+     "ims": null,
+     "do": 96.0,
+     "del": 81.0
+    },
+    "NOODLES": {
+     "tgt": 200.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 30.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "WATER": {
+     "tgt": 2500.0,
+     "ims": null,
+     "do": 850.0,
+     "del": 853.0
+    },
+    "OIL": {
+     "tgt": 49.39934473971605,
+     "ims": null,
+     "do": 40.0,
+     "del": 0
+    },
+    "DETERGENT": {
+     "tgt": 60.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    }
+   },
+   "national": {
+    "tgt": 4940.0,
+    "do": 986.0,
+    "del": 934.0
+   }
+  },
+  {
+   "region": "HEAD OFFICE",
+   "area": "JAMALPUR",
+   "categories": {
+    "CSD": {
+     "tgt": 2800.0,
+     "ims": null,
+     "do": 20.0,
+     "del": 20.0
+    },
+    "HOTFILL": {
+     "tgt": 400.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "BEVERAGE": {
+     "tgt": 3200.0,
+     "ims": null,
+     "do": 20.0,
+     "del": 20.0
+    },
+    "NOODLES": {
+     "tgt": 350.0,
+     "ims": null,
+     "do": 62.0,
+     "del": 32.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 55.0,
+     "del": 25.0
+    },
+    "WATER": {
+     "tgt": 100.0,
+     "ims": null,
+     "do": 68.0,
+     "del": 0
+    },
+    "OIL": {
+     "tgt": 535.0200218420094,
+     "ims": null,
+     "do": 280.0,
+     "del": 422.0
+    },
+    "DETERGENT": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 36.0,
+     "del": 31.0
+    }
+   },
+   "national": {
+    "tgt": 3950.0,
+    "do": 485.0,
+    "del": 499.0
+   }
+  },
+  {
+   "region": "HEAD OFFICE",
+   "area": "KISHOREGANJ",
+   "categories": {
+    "CSD": {
+     "tgt": 1000.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "HOTFILL": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 32.0,
+     "del": 0
+    },
+    "BEVERAGE": {
+     "tgt": 1150.0,
+     "ims": null,
+     "do": 32.0,
+     "del": 0
+    },
+    "NOODLES": {
+     "tgt": 400.0,
+     "ims": null,
+     "do": 0,
+     "del": 4.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 40.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "WATER": {
+     "tgt": 1400.0,
+     "ims": null,
+     "do": 0,
+     "del": 20.0
+    },
+    "OIL": {
+     "tgt": 83.72770294867128,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "DETERGENT": {
+     "tgt": 60.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    }
+   },
+   "national": {
+    "tgt": 3050.0,
+    "do": 32.0,
+    "del": 24.0
+   }
+  },
+  {
+   "region": "HEAD OFFICE",
+   "area": "MYMENSINGH",
+   "categories": {
+    "CSD": {
+     "tgt": 4800.0,
+     "ims": null,
+     "do": 138.0,
+     "del": 139.0
+    },
+    "HOTFILL": {
+     "tgt": 400.0,
+     "ims": null,
+     "do": 57.0,
+     "del": 51.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 0,
+     "del": 40.0
+    },
+    "BEVERAGE": {
+     "tgt": 5200.0,
+     "ims": null,
+     "do": 195.0,
+     "del": 230.0
+    },
+    "NOODLES": {
+     "tgt": 400.0,
+     "ims": null,
+     "do": 17.0,
+     "del": 20.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 70.0,
+     "del": 93.0
+    },
+    "WATER": {
+     "tgt": 1000.0,
+     "ims": null,
+     "do": 211.0,
+     "del": 329.0
+    },
+    "OIL": {
+     "tgt": 422.82489989079,
+     "ims": null,
+     "do": 214.0,
+     "del": 296.0
+    },
+    "DETERGENT": {
+     "tgt": 170.0,
+     "ims": null,
+     "do": 5.0,
+     "del": 5.0
+    }
+   },
+   "national": {
+    "tgt": 6920.0,
+    "do": 707.0,
+    "del": 968.0
+   }
+  },
+  {
+   "region": "HEAD OFFICE",
+   "area": "RAJSHAHI",
+   "categories": {
+    "CSD": {
+     "tgt": 3000.0,
+     "ims": null,
+     "do": 0,
+     "del": 8.0
+    },
+    "HOTFILL": {
+     "tgt": 400.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "BEVERAGE": {
+     "tgt": 3400.0,
+     "ims": null,
+     "do": 0,
+     "del": 8.0
+    },
+    "NOODLES": {
+     "tgt": 350.0,
+     "ims": null,
+     "do": 27.0,
+     "del": 27.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 100.0,
+     "ims": null,
+     "do": 9.0,
+     "del": 9.0
+    },
+    "WATER": {
+     "tgt": 2000.0,
+     "ims": null,
+     "do": 967.0,
+     "del": 1207.0
+    },
+    "OIL": {
+     "tgt": 211.83108846013832,
+     "ims": null,
+     "do": 5.0,
+     "del": 5.0
+    },
+    "DETERGENT": {
+     "tgt": 170.0,
+     "ims": null,
+     "do": 13.0,
+     "del": 13.0
+    }
+   },
+   "national": {
+    "tgt": 6020.0,
+    "do": 1008.0,
+    "del": 1256.0
+   }
+  },
+  {
+   "region": "KHULNA REGION",
+   "area": "JASHORE",
+   "categories": {
+    "CSD": {
+     "tgt": 6000.0,
+     "ims": null,
+     "do": 925.0,
+     "del": 901.0
+    },
+    "HOTFILL": {
+     "tgt": 400.0,
+     "ims": null,
+     "do": 52.0,
+     "del": 52.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "BEVERAGE": {
+     "tgt": 6400.0,
+     "ims": null,
+     "do": 977.0,
+     "del": 953.0
+    },
+    "NOODLES": {
+     "tgt": 350.0,
+     "ims": null,
+     "do": 126.0,
+     "del": 78.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 53.0,
+     "del": 55.0
+    },
+    "WATER": {
+     "tgt": 400.0,
+     "ims": null,
+     "do": 239.0,
+     "del": 239.0
+    },
+    "OIL": {
+     "tgt": 240.29850746268656,
+     "ims": null,
+     "do": 169.0,
+     "del": 135.0
+    },
+    "DETERGENT": {
+     "tgt": 170.0,
+     "ims": null,
+     "do": 43.0,
+     "del": 43.0
+    }
+   },
+   "national": {
+    "tgt": 7470.0,
+    "do": 1564.0,
+    "del": 1460.0
+   }
+  },
+  {
+   "region": "KHULNA REGION",
+   "area": "KHULNA",
+   "categories": {
+    "CSD": {
+     "tgt": 11500.0,
+     "ims": null,
+     "do": 1389.0,
+     "del": 1572.0
+    },
+    "HOTFILL": {
+     "tgt": 550.0,
+     "ims": null,
+     "do": 265.0,
+     "del": 245.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 8.0,
+     "del": 7.0
+    },
+    "BEVERAGE": {
+     "tgt": 12050.0,
+     "ims": null,
+     "do": 1662.0,
+     "del": 1824.0
+    },
+    "NOODLES": {
+     "tgt": 700.0,
+     "ims": null,
+     "do": 132.0,
+     "del": 235.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 290.0,
+     "ims": null,
+     "do": 86.0,
+     "del": 86.0
+    },
+    "WATER": {
+     "tgt": 3000.0,
+     "ims": null,
+     "do": 2802.0,
+     "del": 2584.0
+    },
+    "OIL": {
+     "tgt": 993.8478340007281,
+     "ims": null,
+     "do": 1503.0,
+     "del": 1548.0
+    },
+    "DETERGENT": {
+     "tgt": 200.0,
+     "ims": null,
+     "do": 107.0,
+     "del": 105.0
+    }
+   },
+   "national": {
+    "tgt": 16240.0,
+    "do": 6185.0,
+    "del": 6277.0
+   }
+  },
+  {
+   "region": "NOAKHALI REGION",
+   "area": "DAGANBHUIYAN",
+   "categories": {
+    "CSD": {
+     "tgt": 2300.0,
+     "ims": null,
+     "do": 242.0,
+     "del": 242.0
+    },
+    "HOTFILL": {
+     "tgt": 300.0,
+     "ims": null,
+     "do": 52.0,
+     "del": 46.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 70.0,
+     "del": 70.0
+    },
+    "BEVERAGE": {
+     "tgt": 2600.0,
+     "ims": null,
+     "do": 364.0,
+     "del": 358.0
+    },
+    "NOODLES": {
+     "tgt": 650.0,
+     "ims": null,
+     "do": 20.0,
+     "del": 118.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 200.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "WATER": {
+     "tgt": 3300.0,
+     "ims": null,
+     "do": 580.0,
+     "del": 2355.0
+    },
+    "OIL": {
+     "tgt": 941.9366581725519,
+     "ims": null,
+     "do": 204.0,
+     "del": 204.0
+    },
+    "DETERGENT": {
+     "tgt": 100.0,
+     "ims": null,
+     "do": 10.0,
+     "del": 20.0
+    }
+   },
+   "national": {
+    "tgt": 6850.0,
+    "do": 1168.0,
+    "del": 3035.0
+   }
+  },
+  {
+   "region": "NOAKHALI REGION",
+   "area": "LAKSHMIPUR",
+   "categories": {
+    "CSD": {
+     "tgt": 2700.0,
+     "ims": null,
+     "do": 287.0,
+     "del": 314.0
+    },
+    "HOTFILL": {
+     "tgt": 400.0,
+     "ims": null,
+     "do": 0,
+     "del": 6.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 30.0,
+     "del": 30.0
+    },
+    "BEVERAGE": {
+     "tgt": 3100.0,
+     "ims": null,
+     "do": 317.0,
+     "del": 350.0
+    },
+    "NOODLES": {
+     "tgt": 750.0,
+     "ims": null,
+     "do": 15.0,
+     "del": 15.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 200.0,
+     "ims": null,
+     "do": 6.0,
+     "del": 6.0
+    },
+    "WATER": {
+     "tgt": 4500.0,
+     "ims": null,
+     "do": 800.0,
+     "del": 3219.0
+    },
+    "OIL": {
+     "tgt": 158.24535857298872,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "DETERGENT": {
+     "tgt": 170.0,
+     "ims": null,
+     "do": 24.0,
+     "del": 12.0
+    }
+   },
+   "national": {
+    "tgt": 8720.0,
+    "do": 1138.0,
+    "del": 3590.0
+   }
+  },
+  {
+   "region": "NOAKHALI REGION",
+   "area": "NOAKHALI",
+   "categories": {
+    "CSD": {
+     "tgt": 6000.0,
+     "ims": null,
+     "do": 1330.0,
+     "del": 1321.0
+    },
+    "HOTFILL": {
+     "tgt": 700.0,
+     "ims": null,
+     "do": 156.0,
+     "del": 150.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "BEVERAGE": {
+     "tgt": 6700.0,
+     "ims": null,
+     "do": 1486.0,
+     "del": 1471.0
+    },
+    "NOODLES": {
+     "tgt": 1000.0,
+     "ims": null,
+     "do": 25.0,
+     "del": 265.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 200.0,
+     "ims": null,
+     "do": 40.0,
+     "del": 40.0
+    },
+    "WATER": {
+     "tgt": 24000.0,
+     "ims": null,
+     "do": 13866.0,
+     "del": 17879.0
+    },
+    "OIL": {
+     "tgt": 232.76301419730618,
+     "ims": null,
+     "do": 62.0,
+     "del": 66.0
+    },
+    "DETERGENT": {
+     "tgt": 170.0,
+     "ims": null,
+     "do": 84.0,
+     "del": 100.0
+    }
+   },
+   "national": {
+    "tgt": 32070.0,
+    "do": 15479.0,
+    "del": 19721.0
+   }
+  },
+  {
+   "region": "NOAKHALI REGION",
+   "area": "SONAPUR",
+   "categories": {
+    "CSD": {
+     "tgt": 4500.0,
+     "ims": null,
+     "do": 1161.0,
+     "del": 1327.0
+    },
+    "HOTFILL": {
+     "tgt": 500.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "BEVERAGE": {
+     "tgt": 5000.0,
+     "ims": null,
+     "do": 1161.0,
+     "del": 1327.0
+    },
+    "NOODLES": {
+     "tgt": 1300.0,
+     "ims": null,
+     "do": 106.0,
+     "del": 118.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 300.0,
+     "ims": null,
+     "do": 10.0,
+     "del": 10.0
+    },
+    "WATER": {
+     "tgt": 4500.0,
+     "ims": null,
+     "do": 143.0,
+     "del": 2273.0
+    },
+    "OIL": {
+     "tgt": 283.83691299599565,
+     "ims": null,
+     "do": 129.0,
+     "del": 129.0
+    },
+    "DETERGENT": {
+     "tgt": 170.0,
+     "ims": null,
+     "do": 54.0,
+     "del": 35.0
+    }
+   },
+   "national": {
+    "tgt": 11270.0,
+    "do": 1549.0,
+    "del": 3857.0
+   }
+  },
+  {
+   "region": "RANGPUR REGION",
+   "area": "GAIBANDHA",
+   "categories": {
+    "CSD": {
+     "tgt": 6000.0,
+     "ims": null,
+     "do": 450.0,
+     "del": 510.04166666666663
+    },
+    "HOTFILL": {
+     "tgt": 500.0,
+     "ims": null,
+     "do": 24.0,
+     "del": 24.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 10.0,
+     "del": 10.0
+    },
+    "BEVERAGE": {
+     "tgt": 6500.0,
+     "ims": null,
+     "do": 484.0,
+     "del": 544.0416666666666
+    },
+    "NOODLES": {
+     "tgt": 400.0,
+     "ims": null,
+     "do": 74.0,
+     "del": 249.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 170.0,
+     "ims": null,
+     "do": 90.0,
+     "del": 89.975
+    },
+    "WATER": {
+     "tgt": 400.0,
+     "ims": null,
+     "do": 97.0,
+     "del": 540.0
+    },
+    "OIL": {
+     "tgt": 1186.421550782672,
+     "ims": null,
+     "do": 1138.0,
+     "del": 1027.0
+    },
+    "DETERGENT": {
+     "tgt": 250.0,
+     "ims": null,
+     "do": 93.0,
+     "del": 91.0
+    }
+   },
+   "national": {
+    "tgt": 7720.0,
+    "do": 1883.0,
+    "del": 2450.0166666666664
+   }
+  },
+  {
+   "region": "RANGPUR REGION",
+   "area": "RANGPUR",
+   "categories": {
+    "CSD": {
+     "tgt": 6000.0,
+     "ims": null,
+     "do": 19.0,
+     "del": 30.0
+    },
+    "HOTFILL": {
+     "tgt": 700.0,
+     "ims": null,
+     "do": 36.0,
+     "del": 36.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 10.0,
+     "del": 10.0
+    },
+    "BEVERAGE": {
+     "tgt": 6700.0,
+     "ims": null,
+     "do": 65.0,
+     "del": 76.0
+    },
+    "NOODLES": {
+     "tgt": 400.0,
+     "ims": null,
+     "do": 196.0,
+     "del": 257.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 170.0,
+     "ims": null,
+     "do": 36.0,
+     "del": 41.0
+    },
+    "WATER": {
+     "tgt": 600.0,
+     "ims": null,
+     "do": 1032.0,
+     "del": 766.0
+    },
+    "OIL": {
+     "tgt": 1321.2231525300326,
+     "ims": null,
+     "do": 603.0,
+     "del": 569.0
+    },
+    "DETERGENT": {
+     "tgt": 280.0,
+     "ims": null,
+     "do": 115.0,
+     "del": 92.0
+    }
+   },
+   "national": {
+    "tgt": 8150.0,
+    "do": 1932.0,
+    "del": 1709.0
+   }
+  },
+  {
+   "region": "SHITAKUNDU REGION",
+   "area": "FENI",
+   "categories": {
+    "CSD": {
+     "tgt": 3500.0,
+     "ims": null,
+     "do": 827.0,
+     "del": 797.0
+    },
+    "HOTFILL": {
+     "tgt": 400.0,
+     "ims": null,
+     "do": 98.0,
+     "del": 86.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 147.0,
+     "del": 160.0
+    },
+    "BEVERAGE": {
+     "tgt": 3900.0,
+     "ims": null,
+     "do": 1072.0,
+     "del": 1043.0
+    },
+    "NOODLES": {
+     "tgt": 600.0,
+     "ims": null,
+     "do": 65.0,
+     "del": 65.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 80.0,
+     "ims": null,
+     "do": 40.0,
+     "del": 40.0
+    },
+    "WATER": {
+     "tgt": 2500.0,
+     "ims": null,
+     "do": 1000.0,
+     "del": 1120.0
+    },
+    "OIL": {
+     "tgt": 262.0677102293411,
+     "ims": null,
+     "do": 500.0,
+     "del": 500.0
+    },
+    "DETERGENT": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 45.0,
+     "del": 45.0
+    }
+   },
+   "national": {
+    "tgt": 7230.0,
+    "do": 2677.0,
+    "del": 2768.0
+   }
+  },
+  {
+   "region": "SHITAKUNDU REGION",
+   "area": "HALISHAHAR",
+   "categories": {
+    "CSD": {
+     "tgt": 2500.0,
+     "ims": null,
+     "do": 148.0,
+     "del": 160.0
+    },
+    "HOTFILL": {
+     "tgt": 400.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "BEVERAGE": {
+     "tgt": 2900.0,
+     "ims": null,
+     "do": 148.0,
+     "del": 160.0
+    },
+    "NOODLES": {
+     "tgt": 400.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 80.0,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "WATER": {
+     "tgt": 3500.0,
+     "ims": null,
+     "do": 1020.0,
+     "del": 1400.0
+    },
+    "OIL": {
+     "tgt": 111.35784492173279,
+     "ims": null,
+     "do": 0,
+     "del": 0
+    },
+    "DETERGENT": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 12.0,
+     "del": 12.0
+    }
+   },
+   "national": {
+    "tgt": 7030.0,
+    "do": 1168.0,
+    "del": 1560.0
+   }
+  },
+  {
+   "region": "SHITAKUNDU REGION",
+   "area": "SHITAKUNDU",
+   "categories": {
+    "CSD": {
+     "tgt": 6000.0,
+     "ims": null,
+     "do": 1176.0,
+     "del": 1618.0
+    },
+    "HOTFILL": {
+     "tgt": 550.0,
+     "ims": null,
+     "do": 40.0,
+     "del": 18.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 50.0,
+     "del": 107.0
+    },
+    "BEVERAGE": {
+     "tgt": 6550.0,
+     "ims": null,
+     "do": 1266.0,
+     "del": 1743.0
+    },
+    "NOODLES": {
+     "tgt": 600.0,
+     "ims": null,
+     "do": 64.0,
+     "del": 189.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 100.0,
+     "ims": null,
+     "do": 155.0,
+     "del": 169.0
+    },
+    "WATER": {
+     "tgt": 6500.0,
+     "ims": null,
+     "do": 2252.0,
+     "del": 2573.0
+    },
+    "OIL": {
+     "tgt": 444.5941026574445,
+     "ims": null,
+     "do": 379.0,
+     "del": 380.0
+    },
+    "DETERGENT": {
+     "tgt": 150.0,
+     "ims": null,
+     "do": 38.0,
+     "del": 48.0
+    }
+   },
+   "national": {
+    "tgt": 13900.0,
+    "do": 4116.0,
+    "del": 5054.0
+   }
+  },
+  {
+   "region": "SYLHET REGION",
+   "area": "BEANIBAZAR",
+   "categories": {
+    "CSD": {
+     "tgt": 5200.0,
+     "ims": null,
+     "do": 552.0,
+     "del": 614.0
+    },
+    "HOTFILL": {
+     "tgt": 650.0,
+     "ims": null,
+     "do": 127.0,
+     "del": 109.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 261.0,
+     "del": 355.0
+    },
+    "BEVERAGE": {
+     "tgt": 5850.0,
+     "ims": null,
+     "do": 940.0,
+     "del": 1078.0
+    },
+    "NOODLES": {
+     "tgt": 1000.0,
+     "ims": null,
+     "do": 69.0,
+     "del": 165.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 200.0,
+     "ims": null,
+     "do": 36.0,
+     "del": 36.0
+    },
+    "WATER": {
+     "tgt": 3500.0,
+     "ims": null,
+     "do": 2498.0,
+     "del": 3172.0
+    },
+    "OIL": {
+     "tgt": 946.9603203494722,
+     "ims": null,
+     "do": 620.0,
+     "del": 620.0
+    },
+    "DETERGENT": {
+     "tgt": 100.0,
+     "ims": null,
+     "do": 52.0,
+     "del": 49.0
+    }
+   },
+   "national": {
+    "tgt": 10650.0,
+    "do": 4163.0,
+    "del": 5071.0
+   }
+  },
+  {
+   "region": "SYLHET REGION",
+   "area": "MOULVIBAZAR",
+   "categories": {
+    "CSD": {
+     "tgt": 4900.0,
+     "ims": null,
+     "do": 426.0,
+     "del": 426.0
+    },
+    "HOTFILL": {
+     "tgt": 500.0,
+     "ims": null,
+     "do": 39.0,
+     "del": 33.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 119.0,
+     "del": 153.0
+    },
+    "BEVERAGE": {
+     "tgt": 5400.0,
+     "ims": null,
+     "do": 584.0,
+     "del": 612.0
+    },
+    "NOODLES": {
+     "tgt": 500.0,
+     "ims": null,
+     "do": 18.0,
+     "del": 18.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 100.0,
+     "ims": null,
+     "do": 65.0,
+     "del": 65.0
+    },
+    "WATER": {
+     "tgt": 6000.0,
+     "ims": null,
+     "do": 2798.0,
+     "del": 1940.0
+    },
+    "OIL": {
+     "tgt": 94.61230433199854,
+     "ims": null,
+     "do": 489.0,
+     "del": 489.0
+    },
+    "DETERGENT": {
+     "tgt": 100.0,
+     "ims": null,
+     "do": 76.0,
+     "del": 76.0
+    }
+   },
+   "national": {
+    "tgt": 12100.0,
+    "do": 3954.0,
+    "del": 3124.0
+   }
+  },
+  {
+   "region": "SYLHET REGION",
+   "area": "SUNAMGANJ",
+   "categories": {
+    "CSD": {
+     "tgt": 7700.0,
+     "ims": null,
+     "do": 1529.0,
+     "del": 1652.0
+    },
+    "HOTFILL": {
+     "tgt": 500.0,
+     "ims": null,
+     "do": 60.0,
+     "del": 48.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 50.0,
+     "del": 0
+    },
+    "BEVERAGE": {
+     "tgt": 8200.0,
+     "ims": null,
+     "do": 1639.0,
+     "del": 1700.0
+    },
+    "NOODLES": {
+     "tgt": 550.0,
+     "ims": null,
+     "do": 205.0,
+     "del": 253.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 400.0,
+     "ims": null,
+     "do": 315.0,
+     "del": 315.0
+    },
+    "WATER": {
+     "tgt": 1000.0,
+     "ims": null,
+     "do": 500.0,
+     "del": 1050.0
+    },
+    "OIL": {
+     "tgt": 3257.007644703313,
+     "ims": null,
+     "do": 1673.0,
+     "del": 1563.0
+    },
+    "DETERGENT": {
+     "tgt": 100.0,
+     "ims": null,
+     "do": 279.0,
+     "del": 268.0
+    }
+   },
+   "national": {
+    "tgt": 10250.0,
+    "do": 4332.0,
+    "del": 4881.0
+   }
+  },
+  {
+   "region": "SYLHET REGION",
+   "area": "SYLHET",
+   "categories": {
+    "CSD": {
+     "tgt": 18300.0,
+     "ims": null,
+     "do": 3380.0,
+     "del": 3765.0
+    },
+    "HOTFILL": {
+     "tgt": 650.0,
+     "ims": null,
+     "do": 97.0,
+     "del": 91.0
+    },
+    "HDPE": {
+     "tgt": 0,
+     "ims": null,
+     "do": 169.0,
+     "del": 372.0
+    },
+    "BEVERAGE": {
+     "tgt": 18950.0,
+     "ims": null,
+     "do": 3646.0,
+     "del": 4228.0
+    },
+    "NOODLES": {
+     "tgt": 1000.0,
+     "ims": null,
+     "do": 168.0,
+     "del": 298.0
+    },
+    "POTATO CRACKERS": {
+     "tgt": 250.0,
+     "ims": null,
+     "do": 280.0,
+     "del": 280.0
+    },
+    "WATER": {
+     "tgt": 6000.0,
+     "ims": null,
+     "do": 2975.0,
+     "del": 2924.0
+    },
+    "OIL": {
+     "tgt": 1484.4921732799419,
+     "ims": null,
+     "do": 1149.0,
+     "del": 1069.0
+    },
+    "DETERGENT": {
+     "tgt": 100.0,
+     "ims": null,
+     "do": 221.0,
+     "del": 210.0
+    }
+   },
+   "national": {
+    "tgt": 26300.0,
+    "do": 8218.0,
+    "del": 8799.0
+   }
+  }
+ ]
+}
