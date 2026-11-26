@@ -1,0 +1,18 @@
+name: Daily FF Report Email
+on:
+  schedule:
+    - cron: "30 4 * * *"      # UTC 04:30 = বাংলাদেশ সকাল ১০:৩০
+  workflow_dispatch:           # হাতে চালানোর বাটন (Actions ট্যাব থেকে)
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Send region-wise emails
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          RECIPIENTS: ${{ secrets.RECIPIENTS }}
+        run: python send_report.py
